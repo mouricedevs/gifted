@@ -3,6 +3,7 @@
 
 - Based on **[Gifted-Baileys](https://www.npmjs.com/package/gifted-baileys)** and **[Gifted-Api](https://api.giftedtechnexus.co.ke)**
 - **[Contact Me](https://t.me/mouricedevs)** for premium api keys without limitations.
+- Deploy Using Creds.json/Session ID fron replit(Has no Issues)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
