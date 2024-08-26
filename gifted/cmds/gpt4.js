@@ -64,7 +64,7 @@ function _0x70b6() {
         'result',
         'gpt',
         '2495313aIskJR',
-        'https://gifted-apis-third-30b2fdbb9819.herokuapp.com',
+        'https://api.giftedtechnexus.co.ke',
         'error',
         'pushName',
         'stringify',
