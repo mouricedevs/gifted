@@ -117,7 +117,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 <summary>CLICK FOR MORE</summary>
 <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb" width="150"></a>
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmouricedevs%2FGifted-Md&branch=main&name=gifted-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmouricedevs%2Fgifted&branch=main&name=gifted-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -141,19 +141,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 & 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
-
-**👇CREDITS:**
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
-  
-- MH MODS OFC
-- ETHIX-XSID
-- BOT USERS
-- MYSELF
-</details>
-
-**👇FOR UPDATES:**
+### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
 
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
