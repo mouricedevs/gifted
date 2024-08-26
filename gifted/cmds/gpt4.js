@@ -1,163 +1,167 @@
-(function (_0x56197c, _0x3ae667) {
-    const _0x17c331 = _0xe77b, _0x413fbe = _0x56197c();
+(function (_0xb34cbd, _0x4492b5) {
+    const _0x3df9d3 = _0x4a19, _0x55a06c = _0xb34cbd();
     while (!![]) {
         try {
-            const _0x5d8fc8 = -parseInt(_0x17c331(0x193)) / 0x1 + parseInt(_0x17c331(0x184)) / 0x2 + -parseInt(_0x17c331(0x19d)) / 0x3 + -parseInt(_0x17c331(0x18b)) / 0x4 + parseInt(_0x17c331(0x183)) / 0x5 + -parseInt(_0x17c331(0x18f)) / 0x6 * (-parseInt(_0x17c331(0x1a5)) / 0x7) + -parseInt(_0x17c331(0x19c)) / 0x8 * (parseInt(_0x17c331(0x196)) / 0x9);
-            if (_0x5d8fc8 === _0x3ae667)
+            const _0x2086af = parseInt(_0x3df9d3(0x1c6)) / 0x1 * (parseInt(_0x3df9d3(0x1e2)) / 0x2) + -parseInt(_0x3df9d3(0x1e5)) / 0x3 + parseInt(_0x3df9d3(0x1f2)) / 0x4 + parseInt(_0x3df9d3(0x1e8)) / 0x5 * (parseInt(_0x3df9d3(0x1bf)) / 0x6) + -parseInt(_0x3df9d3(0x1e9)) / 0x7 + -parseInt(_0x3df9d3(0x1c5)) / 0x8 + -parseInt(_0x3df9d3(0x1d7)) / 0x9 * (-parseInt(_0x3df9d3(0x1cf)) / 0xa);
+            if (_0x2086af === _0x4492b5)
                 break;
             else
-                _0x413fbe['push'](_0x413fbe['shift']());
-        } catch (_0x1fa8c8) {
-            _0x413fbe['push'](_0x413fbe['shift']());
+                _0x55a06c['push'](_0x55a06c['shift']());
+        } catch (_0x127886) {
+            _0x55a06c['push'](_0x55a06c['shift']());
         }
     }
-}(_0x23e4, 0x79388));
-import _0x21c6d5 from 'axios';
-import _0x1b5c90, { prepareWAMessageMedia } from 'gifted-baileys';
-function _0x23e4() {
-    const _0x1c7a50 = [
-        '📋\x20ᴄᴏᴘʏ\x20ᴡʜᴏʟᴇ\x20ᴛᴇxᴛ',
-        'reply',
-        '155813lIKIps',
-        'chatgpt',
-        'slice',
+}(_0x70b6, 0x40ad2));
+import _0x31e708 from 'axios';
+function _0x4a19(_0x590494, _0x1cd8bc) {
+    const _0x70b633 = _0x70b6();
+    return _0x4a19 = function (_0x4a1970, _0x5191ad) {
+        _0x4a1970 = _0x4a1970 - 0x1bb;
+        let _0x320340 = _0x70b633[_0x4a1970];
+        return _0x320340;
+    }, _0x4a19(_0x590494, _0x1cd8bc);
+}
+import _0x223d1e, { prepareWAMessageMedia } from 'gifted-baileys';
+function _0x70b6() {
+    const _0x376fd3 = [
+        '2109107ZHZlNO',
+        'giftedtechk',
+        '&apikey=',
+        '>\x20*©𝟐𝟎𝟐𝟒\x20𝐆𝐈𝐅𝐓𝐄𝐃\x20𝐌𝐃\x20𝐕𝟓*',
         'cta_copy',
-        'ᴍᴀɪɴ\x20ᴍᴇɴᴜ',
-        'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l',
-        'length',
-        'sʜᴏᴡ\x20💜\x20ғᴏʀ\x20ɢɪғᴛᴇᴅ',
-        'Error\x20getting\x20response\x20from\x20GPT.',
-        'push',
-        'Hello\x20*_',
-        'copy_code',
-        'NativeFlowMessage',
-        'gpt4ai',
+        'reply',
         'split',
-        'trim',
-        'Invalid\x20response\x20from\x20the\x20GPT\x20API.',
-        'InteractiveMessage',
-        'message',
-        '4077350BTSbwq',
-        '1707258GfGYTH',
-        'Footer',
-        'gpt',
-        'data',
-        'cta_url',
-        'chatgpt4v2',
-        'pushName',
-        '1412740qOllzE',
+        'React',
+        'relayMessage',
+        '1268956HvkYYe',
+        'quick_reply',
         'Header',
         'get',
-        'Error\x20getting\x20GPT\x20response:',
-        '66cvFdLY',
-        'https://api.prabath-md.tech/api/gptv1?q=',
-        'Body',
-        'A\x20moment,\x20*Gifted-Md*\x20is\x20Generating\x20Your\x20GPT4\x20Request...',
-        '120523LhsYAw',
-        '📋\x20ᴄᴏᴘʏ\x20ɢᴇɴᴇʀᴀᴛᴇᴅ\x20ᴄᴏᴅᴇ',
-        'body',
-        '195606hERhAS',
+        'cta_url',
+        'data',
+        '1439466DoNJWi',
+        'includes',
         'remoteJid',
+        'InteractiveMessage',
         'key',
-        'relayMessage',
-        'create',
-        '>\x20*©𝟐𝟎𝟐𝟒\x20𝐆𝐈𝐅𝐓𝐄𝐃\x20𝐌𝐃\x20𝐕𝟓*',
-        '56uBheag',
-        '2374746DqlzPf',
-        'match',
-        'stringify',
-        '.menu',
+        'gpt4v2',
+        '2503280FYZPPy',
+        '3931uPOXey',
         'Message',
-        'React'
+        'A\x20moment,\x20*Gifted-Md*\x20is\x20Generating\x20Your\x20GPT4\x20Request...',
+        'body',
+        'gpt4ai',
+        'push',
+        'message',
+        'Error\x20getting\x20response\x20from\x20GPT.',
+        'slice',
+        '10RBxXgU',
+        'create',
+        'chatgpt4v2',
+        'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l',
+        '.menu',
+        'Invalid\x20response\x20from\x20the\x20GPT\x20API.',
+        'result',
+        'gpt',
+        '2495313aIskJR',
+        'https://gifted-apis-third-30b2fdbb9819.herokuapp.com',
+        'error',
+        'pushName',
+        'stringify',
+        'ᴍᴀɪɴ\x20ᴍᴇɴᴜ',
+        'NativeFlowMessage',
+        'gpt4',
+        'chatgpt4',
+        '📋\x20ᴄᴏᴘʏ\x20ɢᴇɴᴇʀᴀᴛᴇᴅ\x20ᴄᴏᴅᴇ',
+        '/api/ai/gpt4?q=',
+        '140yFriWF',
+        'startsWith',
+        'match',
+        '1411089csoUol',
+        'chatgpt',
+        'length',
+        '10DKertM'
     ];
-    _0x23e4 = function () {
-        return _0x1c7a50;
+    _0x70b6 = function () {
+        return _0x376fd3;
     };
-    return _0x23e4();
+    return _0x70b6();
 }
-function _0xe77b(_0x435c58, _0x372e00) {
-    const _0x23e439 = _0x23e4();
-    return _0xe77b = function (_0xe77bfc, _0x3dd2b3) {
-        _0xe77bfc = _0xe77bfc - 0x173;
-        let _0x57de6b = _0x23e439[_0xe77bfc];
-        return _0x57de6b;
-    }, _0xe77b(_0x435c58, _0x372e00);
-}
-const {generateWAMessageFromContent, proto} = _0x1b5c90, gptResponse = async (_0x40f158, _0x100899) => {
-        const _0x1dd874 = _0xe77b, _0x3df8c8 = _0x40f158['body'][_0x1dd874(0x19e)](/^[\\/!#.]/), _0x1a4953 = _0x3df8c8 ? _0x3df8c8[0x0] : '/', _0x5d414a = _0x40f158[_0x1dd874(0x195)]['startsWith'](_0x1a4953) ? _0x40f158[_0x1dd874(0x195)][_0x1dd874(0x1a7)](_0x1a4953[_0x1dd874(0x176)])[_0x1dd874(0x17e)]('\x20')[0x0]['toLowerCase']() : '', _0x2a59d8 = _0x40f158['body'][_0x1dd874(0x1a7)](_0x1a4953['length'] + _0x5d414a[_0x1dd874(0x176)])[_0x1dd874(0x17f)](), _0x496cc0 = [
-                'chatgpt4',
-                _0x1dd874(0x186),
-                _0x1dd874(0x1a6),
-                'gpt4v2',
-                _0x1dd874(0x189),
-                'gpt4',
-                _0x1dd874(0x17d)
+const {generateWAMessageFromContent, proto} = _0x223d1e, gptResponse = async (_0x2173ac, _0x5e6280) => {
+        const _0x3d187c = _0x4a19, _0x564607 = _0x2173ac[_0x3d187c(0x1c9)][_0x3d187c(0x1e4)](/^[\\/!#.]/), _0x31748c = _0x564607 ? _0x564607[0x0] : '/', _0x399d2b = _0x3d187c(0x1d8), _0x31ccba = _0x3d187c(0x1ea), _0x360d69 = _0x2173ac[_0x3d187c(0x1c9)][_0x3d187c(0x1e3)](_0x31748c) ? _0x2173ac[_0x3d187c(0x1c9)]['slice'](_0x31748c[_0x3d187c(0x1e7)])[_0x3d187c(0x1ef)]('\x20')[0x0]['toLowerCase']() : '', _0x265e9c = _0x2173ac[_0x3d187c(0x1c9)][_0x3d187c(0x1ce)](_0x31748c['length'] + _0x360d69[_0x3d187c(0x1e7)])['trim'](), _0x3fea45 = [
+                _0x3d187c(0x1df),
+                _0x3d187c(0x1d6),
+                _0x3d187c(0x1e6),
+                _0x3d187c(0x1c4),
+                _0x3d187c(0x1d1),
+                _0x3d187c(0x1de),
+                _0x3d187c(0x1ca)
             ];
-        if (_0x496cc0['includes'](_0x5d414a)) {
-            if (!_0x2a59d8)
-                return _0x40f158[_0x1dd874(0x1a4)](_0x1dd874(0x17a) + _0x40f158[_0x1dd874(0x18a)] + '_,*\x0a\x20I\x20am\x20Gifted\x20Premium\x20ChatGpt4.\x0a\x20Please\x20Ask\x20a\x20Question.');
+        if (_0x3fea45[_0x3d187c(0x1c0)](_0x360d69)) {
+            if (!_0x265e9c)
+                return _0x2173ac[_0x3d187c(0x1ee)]('Hello\x20*_' + _0x2173ac[_0x3d187c(0x1da)] + '_,*\x0a\x20I\x20am\x20Gifted\x20Premium\x20ChatGpt4.\x0a\x20Please\x20Ask\x20a\x20Question.');
             try {
-                await _0x40f158['React']('🕘'), await _0x40f158[_0x1dd874(0x1a4)](_0x1dd874(0x192));
-                const _0x124770 = _0x1dd874(0x190) + encodeURIComponent(_0x2a59d8), _0x2f6bd5 = await _0x21c6d5[_0x1dd874(0x18d)](_0x124770), _0x313635 = _0x2f6bd5['data'];
-                if (_0x313635 && _0x313635[_0x1dd874(0x187)]) {
-                    const _0x4ce9cb = _0x313635[_0x1dd874(0x187)], _0x1dbb01 = '' + _0x4ce9cb, _0x18f685 = _0x4ce9cb['match'](/```([\s\S]*?)```/);
-                    let _0x498aac = [];
-                    if (_0x18f685) {
-                        const _0x123066 = _0x18f685[0x1];
-                        _0x498aac[_0x1dd874(0x179)]({
-                            'name': _0x1dd874(0x173),
-                            'buttonParamsJson': JSON['stringify']({
-                                'display_text': _0x1dd874(0x194),
-                                'id': _0x1dd874(0x17b),
-                                'copy_code': _0x123066
+                await _0x2173ac[_0x3d187c(0x1f0)]('🕘'), await _0x2173ac['reply'](_0x3d187c(0x1c8));
+                const _0x149ced = _0x399d2b + _0x3d187c(0x1e1) + encodeURIComponent(_0x265e9c) + _0x3d187c(0x1eb) + _0x31ccba, _0x5084fe = await _0x31e708[_0x3d187c(0x1bc)](_0x149ced), _0x2c86cd = _0x5084fe[_0x3d187c(0x1be)];
+                if (_0x2c86cd && _0x2c86cd[_0x3d187c(0x1d5)]) {
+                    const _0xb33258 = _0x2c86cd[_0x3d187c(0x1d5)], _0x12b6f1 = '' + _0xb33258, _0x58289d = _0xb33258[_0x3d187c(0x1e4)](/```([\s\S]*?)```/);
+                    let _0x508ded = [];
+                    if (_0x58289d) {
+                        const _0x4bfba9 = _0x58289d[0x1];
+                        _0x508ded[_0x3d187c(0x1cb)]({
+                            'name': _0x3d187c(0x1ed),
+                            'buttonParamsJson': JSON[_0x3d187c(0x1db)]({
+                                'display_text': _0x3d187c(0x1e0),
+                                'id': 'copy_code',
+                                'copy_code': _0x4bfba9
                             })
                         });
                     }
-                    _0x498aac['push']({
-                        'name': 'cta_copy',
+                    _0x508ded['push']({
+                        'name': _0x3d187c(0x1ed),
+                        'buttonParamsJson': JSON[_0x3d187c(0x1db)]({
+                            'display_text': '📋\x20ᴄᴏᴘʏ\x20ᴡʜᴏʟᴇ\x20ᴛᴇxᴛ',
+                            'id': 'copy_code',
+                            'copy_code': _0x12b6f1
+                        })
+                    }, {
+                        'name': _0x3d187c(0x1bd),
                         'buttonParamsJson': JSON['stringify']({
-                            'display_text': _0x1dd874(0x1a3),
-                            'id': _0x1dd874(0x17b),
-                            'copy_code': _0x1dbb01
+                            'display_text': 'sʜᴏᴡ\x20💜\x20ғᴏʀ\x20ɢɪғᴛᴇᴅ',
+                            'url': _0x3d187c(0x1d2)
                         })
                     }, {
-                        'name': _0x1dd874(0x188),
-                        'buttonParamsJson': JSON[_0x1dd874(0x19f)]({
-                            'display_text': _0x1dd874(0x177),
-                            'url': _0x1dd874(0x175)
-                        })
-                    }, {
-                        'name': 'quick_reply',
-                        'buttonParamsJson': JSON[_0x1dd874(0x19f)]({
-                            'display_text': _0x1dd874(0x174),
-                            'id': _0x1dd874(0x1a0)
+                        'name': _0x3d187c(0x1f3),
+                        'buttonParamsJson': JSON[_0x3d187c(0x1db)]({
+                            'display_text': _0x3d187c(0x1dc),
+                            'id': _0x3d187c(0x1d3)
                         })
                     });
-                    let _0x3ec8f9 = generateWAMessageFromContent(_0x40f158['from'], {
+                    let _0x132ac2 = generateWAMessageFromContent(_0x2173ac['from'], {
                         'viewOnceMessage': {
                             'message': {
                                 'messageContextInfo': {
                                     'deviceListMetadata': {},
                                     'deviceListMetadataVersion': 0x2
                                 },
-                                'interactiveMessage': proto['Message'][_0x1dd874(0x181)][_0x1dd874(0x19a)]({
-                                    'body': proto[_0x1dd874(0x1a1)][_0x1dd874(0x181)][_0x1dd874(0x191)][_0x1dd874(0x19a)]({ 'text': _0x4ce9cb }),
-                                    'footer': proto[_0x1dd874(0x1a1)]['InteractiveMessage'][_0x1dd874(0x185)][_0x1dd874(0x19a)]({ 'text': _0x1dd874(0x19b) }),
-                                    'header': proto['Message'][_0x1dd874(0x181)][_0x1dd874(0x18c)][_0x1dd874(0x19a)]({
+                                'interactiveMessage': proto['Message']['InteractiveMessage'][_0x3d187c(0x1d0)]({
+                                    'body': proto['Message']['InteractiveMessage']['Body'][_0x3d187c(0x1d0)]({ 'text': _0xb33258 }),
+                                    'footer': proto[_0x3d187c(0x1c7)]['InteractiveMessage']['Footer'][_0x3d187c(0x1d0)]({ 'text': _0x3d187c(0x1ec) }),
+                                    'header': proto['Message'][_0x3d187c(0x1c2)][_0x3d187c(0x1bb)][_0x3d187c(0x1d0)]({
                                         'title': '',
                                         'subtitle': '',
                                         'hasMediaAttachment': ![]
                                     }),
-                                    'nativeFlowMessage': proto['Message'][_0x1dd874(0x181)][_0x1dd874(0x17c)][_0x1dd874(0x19a)]({ 'buttons': _0x498aac })
+                                    'nativeFlowMessage': proto[_0x3d187c(0x1c7)][_0x3d187c(0x1c2)][_0x3d187c(0x1dd)][_0x3d187c(0x1d0)]({ 'buttons': _0x508ded })
                                 })
                             }
                         }
                     }, {});
-                    await _0x100899[_0x1dd874(0x199)](_0x3ec8f9[_0x1dd874(0x198)][_0x1dd874(0x197)], _0x3ec8f9[_0x1dd874(0x182)], { 'messageId': _0x3ec8f9[_0x1dd874(0x198)]['id'] }), await _0x40f158[_0x1dd874(0x1a2)]('✅');
+                    await _0x5e6280[_0x3d187c(0x1f1)](_0x132ac2[_0x3d187c(0x1c3)][_0x3d187c(0x1c1)], _0x132ac2[_0x3d187c(0x1cc)], { 'messageId': _0x132ac2[_0x3d187c(0x1c3)]['id'] }), await _0x2173ac['React']('✅');
                 } else
-                    throw new Error(_0x1dd874(0x180));
-            } catch (_0x46aefb) {
-                console['error'](_0x1dd874(0x18e), _0x46aefb[_0x1dd874(0x182)]), _0x40f158[_0x1dd874(0x1a4)](_0x1dd874(0x178)), await _0x40f158['React']('❌');
+                    throw new Error(_0x3d187c(0x1d4));
+            } catch (_0x44713a) {
+                console[_0x3d187c(0x1d9)]('Error\x20getting\x20GPT\x20response:', _0x44713a[_0x3d187c(0x1cc)]), _0x2173ac['reply'](_0x3d187c(0x1cd)), await _0x2173ac[_0x3d187c(0x1f0)]('❌');
             }
         }
     };
