@@ -124,7 +124,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(F) BOT HOSTING PANEL🔥 DEPLOYMENT**
+**(F) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>CLICK FOR MORE</summary>
 <a href="https://github.com/mouricedevs/gifted/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
