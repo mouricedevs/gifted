@@ -104,14 +104,6 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(C) GITHUB DEPLOYMENT**
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://youtu.be/0JiVJy7AzwI?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-yellow" alt="Github Tutorial" width="150"></a>
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 **(D) KOYEB DEPLOYMENT**
 <details>
 <summary>CLICK FOR MORE</summary>
@@ -122,7 +114,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(E) RAINHOST DEPLOYMENT**
+**(E) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
 <details>
 <summary>CLICK FOR MORE</summary>
 <a href="https://dash.rainxzet.com"><img src="https://img.shields.io/badge/RAINHOST%20SIGNUP-green" alt="Rainhost" width="150"></a>
@@ -132,7 +124,17 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(F) SCALINGO DEPLOYMENT**
+**(F) BOT HOSTING PANEL🔥 DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://github.com/mouricedevs/gifted/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(G) SCALINGO DEPLOYMENT**
 <details>
 <summary>CLICK FOR MORE</summary>
 <a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
