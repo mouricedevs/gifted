@@ -1,98 +1,116 @@
-const _0x31b456 = _0x3293;
-function _0x3293(_0x22a4a5, _0x483a3b) {
-    const _0x1874e0 = _0x1874();
-    return _0x3293 = function (_0x329372, _0x576ca7) {
-        _0x329372 = _0x329372 - 0x1d4;
-        let _0x381402 = _0x1874e0[_0x329372];
-        return _0x381402;
-    }, _0x3293(_0x22a4a5, _0x483a3b);
-}
-(function (_0x3e2638, _0x2d25c4) {
-    const _0x46a4d8 = _0x3293, _0x268ae8 = _0x3e2638();
+(function (_0x58ed44, _0x58e86a) {
+    const _0x197b9b = _0x1d5b, _0x485f24 = _0x58ed44();
     while (!![]) {
         try {
-            const _0x5b8309 = -parseInt(_0x46a4d8(0x1e8)) / 0x1 + -parseInt(_0x46a4d8(0x1fb)) / 0x2 + parseInt(_0x46a4d8(0x1e5)) / 0x3 + parseInt(_0x46a4d8(0x1e4)) / 0x4 * (-parseInt(_0x46a4d8(0x1f1)) / 0x5) + parseInt(_0x46a4d8(0x1ee)) / 0x6 * (-parseInt(_0x46a4d8(0x1d9)) / 0x7) + parseInt(_0x46a4d8(0x1fa)) / 0x8 * (-parseInt(_0x46a4d8(0x1f0)) / 0x9) + parseInt(_0x46a4d8(0x1e0)) / 0xa;
-            if (_0x5b8309 === _0x2d25c4)
+            const _0x101154 = parseInt(_0x197b9b(0x156)) / 0x1 * (-parseInt(_0x197b9b(0x161)) / 0x2) + parseInt(_0x197b9b(0x163)) / 0x3 * (-parseInt(_0x197b9b(0x169)) / 0x4) + -parseInt(_0x197b9b(0x17e)) / 0x5 * (-parseInt(_0x197b9b(0x166)) / 0x6) + parseInt(_0x197b9b(0x17c)) / 0x7 * (-parseInt(_0x197b9b(0x171)) / 0x8) + -parseInt(_0x197b9b(0x179)) / 0x9 + -parseInt(_0x197b9b(0x154)) / 0xa * (parseInt(_0x197b9b(0x15b)) / 0xb) + parseInt(_0x197b9b(0x162)) / 0xc;
+            if (_0x101154 === _0x58e86a)
                 break;
             else
-                _0x268ae8['push'](_0x268ae8['shift']());
-        } catch (_0xd94d40) {
-            _0x268ae8['push'](_0x268ae8['shift']());
+                _0x485f24['push'](_0x485f24['shift']());
+        } catch (_0x1239b0) {
+            _0x485f24['push'](_0x485f24['shift']());
         }
     }
-}(_0x1874, 0xdf02d));
-import _0x11b0fb from 'axios';
-const apiBaseUrl = _0x31b456(0x1f2), instaDownload = async (_0x221915, _0x29830d) => {
-        const _0x44d9a3 = _0x31b456, _0x53c392 = _0x221915[_0x44d9a3(0x1ed)][_0x44d9a3(0x1da)](/^[\\/!#.]/), _0x2b071f = _0x53c392 ? _0x53c392[0x0] : '/', _0x3afba4 = _0x221915[_0x44d9a3(0x1ed)][_0x44d9a3(0x1fc)](_0x2b071f) ? _0x221915[_0x44d9a3(0x1ed)][_0x44d9a3(0x1eb)](_0x2b071f['length'])[_0x44d9a3(0x1f3)]('\x20')[0x0][_0x44d9a3(0x1ea)]() : '', _0x21cb4a = _0x221915['body'][_0x44d9a3(0x1eb)](_0x2b071f[_0x44d9a3(0x1f8)] + _0x3afba4[_0x44d9a3(0x1f8)])[_0x44d9a3(0x1f4)](), _0x5c0e35 = [
-                _0x44d9a3(0x1e1),
-                'ig',
-                _0x44d9a3(0x1ec),
-                _0x44d9a3(0x1db),
-                _0x44d9a3(0x1d7)
-            ];
-        if (_0x5c0e35[_0x44d9a3(0x1dc)](_0x3afba4)) {
-            if (!_0x21cb4a)
-                return _0x221915[_0x44d9a3(0x1d4)](_0x44d9a3(0x1ef));
-            try {
-                await _0x221915[_0x44d9a3(0x1f5)]('🕘'), await _0x221915['reply']('A\x20moment,\x20*Gifted-Md*\x20is\x20Downloading\x20Your\x20Media...');
-                const _0x370a1e = '' + apiBaseUrl + encodeURIComponent(_0x21cb4a), _0x26d719 = await _0x11b0fb['get'](_0x370a1e), _0x480a93 = _0x26d719[_0x44d9a3(0x1d5)][_0x44d9a3(0x1df)];
-                if (_0x26d719['data'][_0x44d9a3(0x1e9)] && _0x480a93 && _0x480a93[_0x44d9a3(0x1f8)] > 0x0) {
-                    const _0xe65e2d = _0x480a93[0x0]['url'], _0x44c67a = await _0x11b0fb['get'](_0xe65e2d, { 'responseType': 'arraybuffer' }), _0x1b149e = Buffer[_0x44d9a3(0x1dd)](_0x44c67a[_0x44d9a3(0x1d5)], _0x44d9a3(0x1f7)), _0x95453c = _0x44d9a3(0x1f6);
-                    await _0x29830d[_0x44d9a3(0x1e3)](_0x221915['from'], _0x1b149e, _0x44d9a3(0x1e6), _0x95453c, { 'quoted': _0x221915 }), await _0x221915['React']('✅'), await _0x221915[_0x44d9a3(0x1d4)](_0x44d9a3(0x1de));
-                } else
-                    throw new Error(_0x44d9a3(0x1d8));
-            } catch (_0x1b4ca5) {
-                console[_0x44d9a3(0x1e2)](_0x44d9a3(0x1e7), _0x1b4ca5[_0x44d9a3(0x1d6)]), _0x221915[_0x44d9a3(0x1d4)](_0x44d9a3(0x1f9)), await _0x221915['React']('❌');
-            }
-        }
-    };
-function _0x1874() {
-    const _0x1ac181 = [
-        '1417770lhiLbZ',
-        'https://api.giftedtechnexus.co.ke/api/download/instadlv3?url=',
-        'split',
-        'trim',
-        'React',
-        '>\x20*©𝟐𝟎𝟐𝟒\x20𝐆𝐈𝐅𝐓𝐄𝐃\x20𝐌𝐃*',
-        'binary',
-        'length',
-        'Error\x20downloading\x20media.',
-        '8zIzdUt',
-        '201576fYsrwC',
-        'startsWith',
-        'reply',
-        'data',
-        'message',
-        'instagram',
-        'Invalid\x20response\x20from\x20the\x20downloader.',
-        '203IeeQtF',
-        'match',
-        'instadl',
-        'includes',
-        'from',
-        'Success,\x20Media\x20Downloaded!',
-        'result',
-        '50748070YRvaNn',
-        'insta',
-        'error',
-        'sendMedia',
-        '12PvBRrl',
-        '1196757BjDZba',
-        'video/mp4',
-        'Error\x20downloading\x20media:',
-        '701882GVmLOw',
-        'success',
-        'toLowerCase',
-        'slice',
-        'igdl',
-        'body',
-        '251268kwLjbF',
-        'Please\x20provide\x20a\x20URL.',
-        '15232311fJICbl'
-    ];
-    _0x1874 = function () {
-        return _0x1ac181;
-    };
-    return _0x1874();
+}(_0x1bb4, 0xe5efb));
+function _0x1d5b(_0xa965c6, _0x32cc8f) {
+    const _0x1bb48f = _0x1bb4();
+    return _0x1d5b = function (_0x1d5b11, _0x5e24a4) {
+        _0x1d5b11 = _0x1d5b11 - 0x153;
+        let _0xe67837 = _0x1bb48f[_0x1d5b11];
+        return _0xe67837;
+    }, _0x1d5b(_0xa965c6, _0x32cc8f);
 }
-export default instaDownload;
+import _0x2c3a17 from 'node-fetch';
+function _0x1bb4() {
+    const _0x47fb17 = [
+        'length',
+        '88cjPizS',
+        'insta',
+        'from',
+        '&apikey=',
+        'reply',
+        'gifteddevskk',
+        'instagram',
+        'Hello\x20_*',
+        '15198822wJYLlL',
+        'success',
+        'video/mp4',
+        '21343HMQzWp',
+        'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l',
+        '125dwYRxO',
+        'split',
+        '2960FJnEWk',
+        'Powered\x20by\x20Gifted\x20Tech',
+        '28193mcdJND',
+        'Failed\x20to\x20download\x20video.\x20Please\x20try\x20again\x20later.',
+        'instadl',
+        'toLowerCase',
+        'Failed\x20with\x20error\x20from\x20Gifted\x20API.\x20Please\x20try\x20again\x20later.',
+        '8371BdODfA',
+        '*_\x20,\x0aPlease\x20provide\x20instagram\x20video\x20URL,\x20\x0aEg\x20*.insta\x20_your_url_',
+        'startsWith',
+        'https://api.giftedtechnexus.co.ke',
+        '/api/download/instadlv3?url=',
+        'https://telegra.ph/file/c2a4d8d65722553da4c89.jpg',
+        '94styHJw',
+        '36305196bTWoBy',
+        '18ZbrEfy',
+        'slice',
+        'Error\x20from\x20Gifted\x20API:',
+        '315480dlNrhM',
+        '>\x20*©𝟐𝟎𝟐𝟒\x20𝐆𝐈𝐅𝐓𝐄𝐃\x20𝐌𝐃\x20𝐕𝟓*',
+        'trim',
+        '83660twGULZ',
+        'includes',
+        'status',
+        'body',
+        'error',
+        'A\x20moment,\x20*Gifted-Md*\x20is\x20Processing\x20from\x20GiftedAPi...',
+        'sendMessage'
+    ];
+    _0x1bb4 = function () {
+        return _0x47fb17;
+    };
+    return _0x1bb4();
+}
+const InstaDl = async (_0x2196d1, _0x1a74d5) => {
+    const _0x34d48c = _0x1d5b, _0x25fe31 = _0x2196d1[_0x34d48c(0x16c)]['match'](/^[\\/!#.]/), _0x276aea = _0x25fe31 ? _0x25fe31[0x0] : '/', _0x1f7064 = _0x34d48c(0x15e), _0xd87993 = _0x34d48c(0x176), _0x5ddf16 = _0x2196d1[_0x34d48c(0x16c)][_0x34d48c(0x15d)](_0x276aea) ? _0x2196d1[_0x34d48c(0x16c)][_0x34d48c(0x164)](_0x276aea[_0x34d48c(0x170)])[_0x34d48c(0x153)]('\x20')[0x0][_0x34d48c(0x159)]() : '', _0x4e4659 = _0x2196d1[_0x34d48c(0x16c)][_0x34d48c(0x164)](_0x276aea[_0x34d48c(0x170)] + _0x5ddf16[_0x34d48c(0x170)])[_0x34d48c(0x168)](), _0x19fca3 = [
+            _0x34d48c(0x172),
+            'ig',
+            'igdl',
+            _0x34d48c(0x158),
+            _0x34d48c(0x177)
+        ];
+    if (_0x19fca3[_0x34d48c(0x16a)](_0x5ddf16)) {
+        if (!_0x4e4659) {
+            await _0x2196d1['reply'](_0x34d48c(0x178) + _0x2196d1['pushName'] + _0x34d48c(0x15c));
+            return;
+        }
+        try {
+            await _0x2196d1['React']('🕘'), await _0x2196d1[_0x34d48c(0x175)](_0x34d48c(0x16e));
+            const _0x1a5dcd = /^(https?:\/\/)?(www\.)?(youtube\.com|youtu\.?be)\/.+$/, _0xe7696a = _0x1a5dcd['test'](_0x4e4659), _0x3bd51d = await _0x2c3a17(_0x1f7064 + _0x34d48c(0x15f) + encodeURIComponent(_0x4e4659) + _0x34d48c(0x174) + _0xd87993), _0x2267c4 = await _0x3bd51d['json']();
+            if (_0x2267c4[_0x34d48c(0x16b)] === 0xc8 && _0x2267c4[_0x34d48c(0x17a)]) {
+                const _0x27dd80 = _0x2267c4['result'][0x0]['url'];
+                await _0x1a74d5[_0x34d48c(0x16f)](_0x2196d1[_0x34d48c(0x173)], {
+                    'video': { 'url': _0x27dd80 },
+                    'mimetype': _0x34d48c(0x17b),
+                    'caption': _0x34d48c(0x167),
+                    'contextInfo': {
+                        'externalAdReply': {
+                            'showAdAttribution': ![],
+                            'body': _0x34d48c(0x155),
+                            'thumbnailUrl': _0x34d48c(0x160),
+                            'sourceUrl': _0x34d48c(0x17d),
+                            'mediaType': 0x1,
+                            'renderLargerThumbnail': ![]
+                        }
+                    }
+                }, { 'quoted': _0x2196d1 }), await _0x2196d1['React']('✅');
+            } else
+                await _0x2196d1[_0x34d48c(0x175)](_0x34d48c(0x157));
+        } catch (_0x1dcc91) {
+            console[_0x34d48c(0x16d)](_0x34d48c(0x165), _0x1dcc91), await _0x1a74d5[_0x34d48c(0x16f)](_0x2196d1[_0x34d48c(0x173)], { 'text': _0x34d48c(0x15a) });
+        }
+    }
+};
+export default InstaDl;
