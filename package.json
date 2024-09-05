@@ -2,11 +2,11 @@
   "name": "gifted-md",
   "version": "5.0.0",
   "description": "Gifted latest multi device whatsapp bot",
-  "main": "./gifted/gifted.js",
+  "main": "./index.js",
   "type": "module",
   "engines" : { "node": "v20.5.0", "npm": "v10.8.3" },
   "scripts": {
-    "start": "pm2 start gifted/gifted.js --deep-monitoring --attach --name gifted",
+    "start": "pm2 start index.js --deep-monitoring --attach --name gifted",
     "stop": "pm2 stop gifted",
     "restart": "pm2 restart gifted"
   },
@@ -14,6 +14,7 @@
   "author": "Gifted Tech",
   "license": "GNU",
   "dependencies": {
+    "gifted-baileys": "^1.5.1",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
     "@hapi/boom": "^10.0.1",
@@ -37,7 +38,6 @@
     "form-data": "^4.0.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^10.1.0",
-    "gifted-baileys": "^1.5.1",
     "gifted-gpt": "^1.1.0",
     "google-it": "^1.6.4",
     "heroku-client": "3.1.0",
@@ -77,6 +77,7 @@
     "tesseract.js": "^5.1.0",
     "translate-google-api": "^1.0.4",
     "util": "^0.12.5",
+    "url": "^0.11.4",
     "uuid": "^9.0.1",
     "wa-sticker-formatter": "^2.0.1",
     "webcrack": "^2.14.1",
@@ -91,10 +92,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/mouricedevs/Gifted-Md.git"
+      "url": "git+https://github.com/mouricedevs/gifted.git"
    },
    "bugs": {
-      "url": "https://github.com/mouricedevs/Gifted-Md/issues"
+      "url": "https://github.com/mouricedevs/gifted/issues"
    },
-   "homepage": "https://github.com/mouricedevs/Gifted-Md#readme"
-  }
+   "homepage": "https://github.com/mouricedevs/gifted#readme"
+}
