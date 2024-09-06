@@ -83,13 +83,6 @@
     "webcrack": "^2.14.1",
     "yt-search": "^2.11.0"
       },
-     "directories": {
-      "lib": "gift",
-      "plugins": "gifted/cmds"
-   },
-   "devDependencies": {
-      "pino": "^7.0.5"
-   },
    "repository": {
       "type": "git",
       "url": "git+https://github.com/mouricedevs/gifted.git"
