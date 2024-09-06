@@ -88,7 +88,7 @@
       "plugins": "gifted/cmds"
    },
    "devDependencies": {
-      "pino": "^7.0.5"
+      "pino": "^8.20.0"
    },
    "repository": {
       "type": "git",
