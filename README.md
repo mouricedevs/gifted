@@ -1,4 +1,4 @@
-### THIS REPO IS NO LONGER AVAILABLE,,,(CLOSED BY OWNER). ALL API KEYS USED HERE BEFORE ARE TO BE DEACTIVATED...
+### REUPLOADING THE CODE SOON...
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
@@ -7,6 +7,5 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### THIS REPO IS NO LONGER AVAILABLE,,,(CLOSED BY OWNER). ALL API KEYS USED HERE BEFORE ARE TO BE DEACTIVATED...
-
+### REUPLOADING THE CODE SOON...
   
