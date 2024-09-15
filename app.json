@@ -1,8 +1,8 @@
 {
   "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
   "website": "https://api.giftedtechnexus.co.ke",
-  "repository": "https://github.com/mouricedevs/gifted-md",
+  "repository": "https://github.com/mouricedevs/gifted",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "success_url": "/",
