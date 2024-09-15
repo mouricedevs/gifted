@@ -50,17 +50,17 @@
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "ALWAYS_ONLINE": {
@@ -70,7 +70,7 @@
     },
     "AUTO_DOWNLOAD": {
       "description": "Put true if you need to download media by using link without cmd",
-      "required": true,
+      "required": false,
       "value": "false"
     },
     "AUTO_BLOCK": {
@@ -90,7 +90,7 @@
     },
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
-      "required": false,
+      "required": true,
       "value": "."
     },
      "DEPLOYMENT_PLATFORM": {
