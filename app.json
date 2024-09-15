@@ -1,7 +1,7 @@
 {
   "name": "gifted-md@v5.0.0",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-  "website": "https://web.giftedtechnexus.co.ke",
+  "website": "https://api.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
@@ -11,7 +11,7 @@
     "MODE": {
       "description": "Put Mode either public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
@@ -21,7 +21,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "254762016957"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -30,13 +30,8 @@
     },
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
-      "required": true,
+      "required": false,
       "value": ""
-    },
-    "ANTI_DELETE": {
-      "description": "Put true/false to enable/disable antidelete",
-      "required": true,
-      "value": "false"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -50,22 +45,22 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "ALWAYS_ONLINE": {
@@ -75,7 +70,7 @@
     },
     "AUTO_DOWNLOAD": {
       "description": "Put true if you need to download media by using link without cmd",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "AUTO_BLOCK": {
