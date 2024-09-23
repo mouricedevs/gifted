@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
-- Based on **[Gifted-Baileys](https://www.npmjs.com/package/gifted-baileys)** and **[Gifted-Api](https://api.giftedtechnexus.co.ke)**
+- Based on **[Gifted-Baileys](https://www.npmjs.com/package/gifted-baileys)** and **[Gifted-Api](https://api-gifted-tech.onrender.com)**
 - **[Contact Me](https://t.me/mouricedevs)** for premium api keys without limitations.
 - Deploy Using Creds.json/Session ID fron replit(Has no Issues)
 
@@ -48,7 +48,7 @@
 
 <details>
 <summary>GET YOUR SESSION_ID</summary>
-<a href="https://api.giftedtechnexus.co.ke/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+<a href="https://api-gifted-tech.onrender.com/sessions"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
 - Session ID must start with **Gifted~** and is 15 characters in length.
 </details>
@@ -58,7 +58,7 @@
 <details>
 <summary>GET YOUR CREDS.JSON FILE</summary>
 
-<a href="https://api.giftedtechnexus.co.ke/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
+<a href="https://api-gifted-tech.onrender.com/sessions"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
 
 </details>
 
@@ -88,7 +88,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 <summary>SESSION_ID DEPLOY</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://api.giftedtechnexus.co.ke/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+<a href="https://api-gifted-tech.onrender.com/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
 </details>
 
   
