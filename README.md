@@ -1,8 +1,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
-- Based on **[Gifted-Baileys](https://www.npmjs.com/package/gifted-baileys)** and **[Gifted-Api](https://api-gifted-tech.onrender.com)**
-- **[Contact Me](https://t.me/mouricedevs)** for premium api keys without limitations.
+- Based on **[Gifted-Baileys](https://www.npmjs.com/package/gifted-baileys)** and **[Gifted Api](https://giftedapis.us.kg)**
+- **[Contact Me](https://giftedapis.us.kg/contact)** for premium api keys without limitations.
 - Deploy Using Creds.json/Session ID fron replit(Has no Issues)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -48,7 +48,7 @@
 
 <details>
 <summary>GET YOUR SESSION_ID</summary>
-<a href="https://api-gifted-tech.onrender.com/sessions"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+<a href="https://giftedapis.us.kg/sessions"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
 - Session ID must start with **Gifted~** and is 15 characters in length.
 </details>
@@ -58,7 +58,7 @@
 <details>
 <summary>GET YOUR CREDS.JSON FILE</summary>
 
-<a href="https://api-gifted-tech.onrender.com/sessions"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
+<a href="https://giftedapis.us.kg/sessions"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
 
 </details>
 
@@ -74,9 +74,9 @@
   
 - After you've **[uploaded your creds.json](https://github.com/mouricedevs/gifted/tree/main/session),** create a new heroku app, link your github, connect the repo you've uploaded your session file then click on deploy.
 
-<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-purple" alt="Pairing Code" width="150"></a>
+<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-purple" alt="Heroku Login" width="150"></a>
 
-<a href="https://youtu.be/3NpmjBUUBUc"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Pairing Code" width="150"></a>
+<a href="https://youtu.be/3NpmjBUUBUc"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Youtube Tutorial" width="150"></a>
   
 ```
 https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
@@ -88,7 +88,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 <summary>SESSION_ID DEPLOY</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://api-gifted-tech.onrender.com/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+<a href="https://giftedapis.us.kg/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
 </details>
 
   
@@ -148,7 +148,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
+- **[CONTACT SUPPORT](https://giftedapis.us.kg/contact) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
 - **Check out my [TELEGRAM BOT MD](https://github.com/mouricedevs/telegram-bot) Project.**
 </details>
