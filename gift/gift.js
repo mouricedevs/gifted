@@ -14,8 +14,8 @@ import pino from 'pino';
 import path from 'path';
 import PhoneNumber from 'awesome-phonenumber';
 import config from '../set.cjs';
-import { writeExifImg, writeExifVid } from '../gift/giftedte.cjs';
-import { getBuffer, getSizeMedia } from '../gift/gifted.cjs'
+import { writeExifImg, writeExifVid } from './giftedte.cjs';
+import { getBuffer, getSizeMedia } from './gifted.cjs'
 import baileys from "gifted-baileys";
 const proto = baileys.proto;
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
