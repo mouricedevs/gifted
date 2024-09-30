@@ -1,5 +1,4 @@
 // GIFTED-MD //
-
 function gifted_0x2082(_0x410589, _0x460d0c) {
     const _0x509164 = gifted_0x5091();
     return gifted_0x2082 = function (_0x208256, _0x265194) {
