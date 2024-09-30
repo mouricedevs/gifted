@@ -5,7 +5,7 @@
 - **[Contact Me](https://giftedapis.us.kg/contact)** for premium api keys without limitations.
 - Deploy Using Creds.json/Session ID fron replit(Has no Issues)
 
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <details>
 <summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
