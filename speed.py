@@ -4,7 +4,7 @@ import requests
 from ping3 import ping
 
 # Configuration
-SERVER_URL = 'https://gifted-tech-api-users.onrender.com'
+SERVER_URL = 'https://giftedapis.us.kg/runtime'
 TEST_DURATION = 30  # Test duration in seconds
 REQUEST_INTERVAL = 0.01  # Time between requests in seconds (10 ms)
 
