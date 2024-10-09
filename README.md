@@ -1,8 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
-- Based on **[Gifted-Baileys,](https://www.npmjs.com/package/gifted-baileys)**  **[Gifted Api](https://temp.giftedapis.us.kg)** and **[Gifted-Gpt](https://www.npmjs.com/package/gifted-gpt)**
-- **[Contact Me](https://temp.giftedapis.us.kg/contact)** for premium api keys without limitations.
 - Deploy Using Creds.json/Session ID fron replit(Has no Issues)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
