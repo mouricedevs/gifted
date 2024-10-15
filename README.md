@@ -145,7 +145,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
   
 - **[CONTACT SUPPORT](https://api.giftedtech.us.kg/contact) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [Website Profile](https://github.com/mouricedevs/telegram-bot) for More Projects.**
+- **Check out my [Website Profile](https://giftedtech.us.kg) for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
