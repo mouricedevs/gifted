@@ -65,6 +65,13 @@
 **(A) HEROKU DEPLOYMENT**
 
 <details>
+<summary>SESSION_ID DEPLOY</summary>
+<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
+  
+<a href="https://api.giftedtech.us.kg/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
+</details>
+
+<details>
 <summary>CREDS.JSON DEPLOY</summary>
   
 - After you've **[uploaded your creds.json](https://github.com/mouricedevs/gifted/tree/main/session),** create a new heroku app, link your github, connect the repo you've uploaded your session file then click on deploy.
@@ -76,17 +83,8 @@
 ```
 https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 ```
-
 </details>
 
-<details>
-<summary>SESSION_ID DEPLOY</summary>
-<a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
-  
-<a href="https://api.giftedtech.us.kg/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Pairing Code" width="150"></a>
-</details>
-
-  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **(B) RENDER DEPLOYMENT**
@@ -145,7 +143,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
   
 - **[CONTACT SUPPORT](https://api.giftedtech.us.kg/contact) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [Website Profile](https://giftedtech.us.kg) for More Projects.**
+- **Check out my [Website Profile](https://giftedtech.my.id) for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
