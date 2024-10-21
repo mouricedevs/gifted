@@ -107,23 +107,23 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/gifted
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+**(F) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 **(E) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
 <details>
 <summary>CLICK FOR MORE</summary>
 <a href="https://dash.rainxzet.com"><img src="https://img.shields.io/badge/RAINHOST%20SIGNUP-green" alt="Rainhost" width="150"></a>
-<a href="https://github.com/mouricedevs/gifted/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
 <a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
 </details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-**(F) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
-<details>
-<summary>CLICK FOR MORE</summary>
-<a href="https://github.com/mouricedevs/gifted/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
-  
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
-</details
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
