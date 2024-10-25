@@ -1,21 +1,5 @@
-import config from '../../set.cjs';
+// GIFTED-TECH@2024
 
-const ping = async (m, Gifted) => {
-   const prefix = config.PREFIX;
-  const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
+function IMTDD$DgeXL$c(EuNBSot$yHJyfLSVNvbL,rXbHqW_MYoTnRMrNXyaFSZKoei){const FxFalyI_kNgT_ztkA=TmQrByt();return IMTDD$DgeXL$c=function(yZt_LW_D,CAQbAe_NjW){yZt_LW_D=yZt_LW_D-(-0x1ecd+-0x301*0x2+-0x10*Number(-0x254));let s$kkdQWdlxO$OZQvZb=FxFalyI_kNgT_ztkA[yZt_LW_D];if(IMTDD$DgeXL$c['uDQsAj']===undefined){const UwNs$gXgnuF$lC=function(aLVq_e){let uFqwqiLMnQKjHgqgn=0x201+Math.ceil(-0x249)+0xc*parseInt(0x2f)&Math.floor(0x3)*Math.trunc(0x9bd)+0x55e+-0x2196,PH_RDmsShXVP$Q=new Uint8Array(aLVq_e['match'](/.{1,2}/g)['map'](dzWAg_BGALDxyxp=>parseInt(dzWAg_BGALDxyxp,0x23fd+Math.max(0x1,0x1)*0x1127+-0x3514))),yXhkJqADAaayevERzE=PH_RDmsShXVP$Q['map'](lEieHsqvd$jlafxVHL_pT=>lEieHsqvd$jlafxVHL_pT^uFqwqiLMnQKjHgqgn),OfoRqvqlWU=new TextDecoder(),uQbhfsm$$f=OfoRqvqlWU['decode'](yXhkJqADAaayevERzE);return uQbhfsm$$f;};IMTDD$DgeXL$c['giOmLq']=UwNs$gXgnuF$lC,EuNBSot$yHJyfLSVNvbL=arguments,IMTDD$DgeXL$c['uDQsAj']=!![];}const faqUpuQLsNMxlXWOgVGCout=FxFalyI_kNgT_ztkA[-0x12c4+Math.trunc(0x109)*0x11+parseInt(0x12b)],nniKabLZlKjAPb=yZt_LW_D+faqUpuQLsNMxlXWOgVGCout,Yh_ncZz$Z=EuNBSot$yHJyfLSVNvbL[nniKabLZlKjAPb];return!Yh_ncZz$Z?(IMTDD$DgeXL$c['gQGBLu']===undefined&&(IMTDD$DgeXL$c['gQGBLu']=!![]),s$kkdQWdlxO$OZQvZb=IMTDD$DgeXL$c['giOmLq'](s$kkdQWdlxO$OZQvZb),EuNBSot$yHJyfLSVNvbL[nniKabLZlKjAPb]=s$kkdQWdlxO$OZQvZb):s$kkdQWdlxO$OZQvZb=Yh_ncZz$Z,s$kkdQWdlxO$OZQvZb;},IMTDD$DgeXL$c(EuNBSot$yHJyfLSVNvbL,rXbHqW_MYoTnRMrNXyaFSZKoei);}(function(ilK$YZlTQnN$grNNNz,nOqTgrkckd_woRD_at){const iGbpzSVP_CEqax=IMTDD$DgeXL$c,wFaYnLOsBsfbLSMzuU=ilK$YZlTQnN$grNNNz();while(!![]){try{const FvapnueYVPE=parseInt(-parseFloat(iGbpzSVP_CEqax(0x76))/(Number(-0x241d)+parseFloat(-0x1c04)+0x4022))+Math['ceil'](-parseFloat(iGbpzSVP_CEqax(0x7d))/(-0x1e6e+-0x57b+0x1*0x23eb))*(-parseFloat(iGbpzSVP_CEqax(0x7e))/(0x1*-0x1dbd+0x3*0x87+parseFloat(0x1c2b)))+parseFloat(iGbpzSVP_CEqax(0x7a))/(-0x1ad+-0x2b*Math.max(0x14,0x14)+-0x1af*-0x3)+Math['trunc'](-parseFloat(iGbpzSVP_CEqax(0x7b))/(parseInt(-0x1ffd)+0xb91+Number(0x1471)))+parseInt(-parseFloat(iGbpzSVP_CEqax(0x81))/(parseInt(-0x2228)+-0x1814+0x3a42))+parseFloat(iGbpzSVP_CEqax(0x73))/(0xa*Number(-0x59)+0x20d9+0xc*-0x272)*(parseFloat(iGbpzSVP_CEqax(0x77))/(0x1*parseInt(0x22be)+-0x2*0xc4e+Number(0x3)*-0x35e))+parseFloat(iGbpzSVP_CEqax(0x80))/(0x1*Math.ceil(0xb99)+Math.ceil(0x14d1)+0x2061*parseInt(-0x1));if(FvapnueYVPE===nOqTgrkckd_woRD_at)break;else wFaYnLOsBsfbLSMzuU['push'](wFaYnLOsBsfbLSMzuU['shift']());}catch(yhZdvALMo_qMjrEKQpepwYHT){wFaYnLOsBsfbLSMzuU['push'](wFaYnLOsBsfbLSMzuU['shift']());}}}(TmQrByt,0x4*Math.max(0xc53f,0xc53f)+0xd61b+Math.ceil(-0x237cb)));function TmQrByt(){const RppfZpE$PXj=['ded8dbdcd9ddd480bbb98699bd','dddddedcd9dadaad8d8d95899a','9c85828b','c6bc83828bd6cc','8e838895','9f898288a1899f9f8d8b89','bcbea9aaa5b4','be898d8f98','8b8998b8858189','dddcd8dfa9be96a983a3','9f988d9e989fbb859884','9883a0839b899eaf8d9f89','dededcd8dcd8bda786a48b9d','dedbdadc8a83be9d9a9d','cc819fc6','8089828b9884','dbded4dbd8dcbabcbda595b4','d8dedad5dbd98487a69dada8','9f80858f89','deddda8b829fbca4be','dedadad8a8819fbf84b4','8a9e8381'];TmQrByt=function(){return RppfZpE$PXj;};return TmQrByt();}import S_rJEuNBSotyHJyfLSV_Nvb from'../../set.cjs';const ping=async(ZrXbHq$WMYoTnRMrNXyaF,ZKoeiBFx_FalyIkNgTztkAd)=>{const p$yQRTVTWYTVWWjY=IMTDD$DgeXL$c,ZtLWDl$CAQbA_eNjW=S_rJEuNBSotyHJyfLSV_Nvb[p$yQRTVTWYTVWWjY(0x86)],skkdQWdlxOOZQvZb=ZrXbHq$WMYoTnRMrNXyaF[p$yQRTVTWYTVWWjY(0x84)][p$yQRTVTWYTVWWjY(0x74)](ZtLWDl$CAQbA_eNjW)?ZrXbHq$WMYoTnRMrNXyaF[p$yQRTVTWYTVWWjY(0x84)][p$yQRTVTWYTVWWjY(0x7c)](ZtLWDl$CAQbA_eNjW[p$yQRTVTWYTVWWjY(0x79)])[p$yQRTVTWYTVWWjY(0x75)]():'';if(skkdQWdlxOOZQvZb===p$yQRTVTWYTVWWjY(0x82)){const faqUpuQLsNMx_lXWO_gVGCout=new Date()[p$yQRTVTWYTVWWjY(0x72)]();await ZrXbHq$WMYoTnRMrNXyaF[p$yQRTVTWYTVWWjY(0x71)]('⚡');const nniKabLZlKjAPb=new Date()[p$yQRTVTWYTVWWjY(0x72)](),Y_h_ncZzZ=nniKabLZlKjAPb-faqUpuQLsNMx_lXWO_gVGCout,UwNsg_XgnuFlC=p$yQRTVTWYTVWWjY(0x83)+Y_h_ncZzZ+p$yQRTVTWYTVWWjY(0x78);ZKoeiBFx_FalyIkNgTztkAd[p$yQRTVTWYTVWWjY(0x85)](ZrXbHq$WMYoTnRMrNXyaF[p$yQRTVTWYTVWWjY(0x7f)],UwNsg_XgnuFlC,{'quoted':ZrXbHq$WMYoTnRMrNXyaF});}};export default ping;
 
-  if (cmd === "ping") {
-    const startTime = new Date();
-    const { key } = await Gifted.sendMessage(m.from, { text: '*_ᴘɪɴɢɪɴɢ ᴛᴏ sᴇʀᴠᴇʀ..._*' }, { quoted: m });
-    // await m.React('🚀');
-
-    const text = `*_ɢɪғᴛᴇᴅ-ᴍᴅ sᴘᴇᴇᴅ: ${new Date() - startTime} ms_*`;
-
-    await m.React('⚡');
-                                           
-    return m.reply(`${text}`, { quoted: key });
-    
-  }
-}
-
-export default ping;
+// GIFTED-TECH@2024
