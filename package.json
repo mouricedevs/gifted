@@ -1,1 +1,16 @@
-{"name":"gifted-md","version":"5.0.0","description":"Gifted-Md latest multi device whatsapp bot","main":"index.js","type":"module","scripts":{"start":"pm2 start index.js --deep-monitoring --attach --name gifted","stop":"pm2 stop gifted","restart":"pm2 restart gifted"},"keywords":["gifted-md","whatsapp-bot","whatsapp md bot"],"author":"GiftedTech","license":"ISC","dependencies":{"@ffmpeg-installer/ffmpeg":"^1.1.0","@google/generative-ai":"^0.9.0","@hapi/boom":"^10.0.1","acrcloud":"^1.4.0","aptoide-scraper":"^1.0.1","awesome-phonenumber":"^6.8.0","axios":"^1.6.8","chalk":"^5.3.0","child_process":"^1.0.2","crypto":"^1.0.1","dotenv":"^16.4.5","express":"^4.19.2","ffmpeg":"^0.0.4","file-type":"^19.0.0","fluent-ffmpeg":"^2.1.3","fs":"^0.0.1-security","fs-extra":"^11.2.0","gifted-baileys":"^1.5.1","gifted-dls":"^1.1.7","gifted-downs":"^1.0.0","gifted-gpt":"^1.1.0","google-it":"^1.6.4","human-readable":"^0.2.1","javascript-obfuscator":"^4.1.1","jimp":"^0.16.13","jpeg-js":"^0.4.4","jsqr":"^1.4.0","libphonenumber":"^0.0.10","moment-timezone":"^0.5.45","node-cache":"^5.1.2","node-cron":"^3.0.3","node-fetch":"^3.3.2","node-os-utils":"^1.3.7","node-webpmux":"^3.2.0","os":"^0.1.2","pdfkit":"^0.15.0","pino":"^8.20.0","pm2":"^5.4.0","proto":"^1.0.19","qrcode":"^1.5.3","qrcode-terminal":"^0.12.0","readline":"^1.3.0","remove.bg":"^1.3.0","stream":"^0.0.3","tesseract.js":"^5.1.0","translate-google-api":"^1.0.4","url":"^0.11.4","uuid":"^9.0.1","webcrack":"^2.14.1","yt-search":"^2.11.0"},"repository":{"type":"git","url":"git+https://github.com/mouricedevs/gifted.git"},"bugs":{"url":"https://github.com/mouricedevs/gifted/issues"},"homepage":"https://github.com/mouricedevs/gifted#readme"}
+{"name":"gifted-md","version":"5.0.0","description":"Gifted-Md latest multi device whatsapp bot","main":"index.js","type":"module","scripts":{"start":"pm2 start index.js --deep-monitoring --attach --name gifted","stop":"pm2 stop gifted","restart":"pm2 restart gifted"},"keywords":["gifted-md","whatsapp-bot","whatsapp md bot"],"author":"GiftedTech","license":"ISC","dependencies":{"@ffmpeg-installer/ffmpeg":"^1.1.0","@google/generative-ai":"^0.9.0","@vitalets/google-translate-api":"^9.2.0","@hapi/boom":"^10.0.1","acrcloud":"^1.4.0","aptoide-scraper":"^1.0.1","awesome-phonenumber":"^6.8.0","axios":"^1.6.8","chalk":"^5.3.0","child_process":"^1.0.2","crypto":"^1.0.1","dotenv":"^16.4.5","express":"^4.19.2","ffmpeg":"^0.0.4","file-type":"^19.0.0","fluent-ffmpeg":"^2.1.3","fs":"^0.0.1-security","fs-extra":"^11.2.0","gifted-baileys":"^1.5.1","gifted-dls":"^1.1.7","gifted-downs":"^1.0.0","gifted-gpt":"^1.1.0","google-it":"^1.6.4","human-readable":"^0.2.1","javascript-obfuscator":"^4.1.1","jimp":"^0.16.13","jpeg-js":"^0.4.4","jsqr":"^1.4.0","libphonenumber":"^0.0.10","moment-timezone":"^0.5.45","node-cache":"^5.1.2","node-cron":"^3.0.3","node-fetch":"^3.3.2","node-os-utils":"^1.3.7","node-webpmux":"^3.2.0","os":"^0.1.2","pdfkit":"^0.15.0","pino":"^8.20.0","pm2":"^5.4.0","proto":"^1.0.19","qrcode":"^1.5.3","qrcode-terminal":"^0.12.0","readline":"^1.3.0","remove.bg":"^1.3.0","stream":"^0.0.3","tesseract.js":"^5.1.0","translate-google-api":"^1.0.4","url":"^0.11.4","uuid":"^9.0.1","webcrack":"^2.14.1","yt-search":"^2.11.0"},"repository":{"type":"git","url":"git+https://github.com/mouricedevs/gifted.git"},"bugs":{"url":"https://github.com/mouricedevs/gifted/issues"},"homepage":"https://github.com/mouricedevs/gifted#readme"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
