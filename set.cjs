@@ -1,4 +1,3 @@
-// GIFTED-TECH 
 const fs = require("fs");
 require("dotenv").config();
 
