@@ -26,7 +26,7 @@ const config = {
   OWNER_NAME: process.env.OWNER_NAME || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
   AUTO_BLOCK: process.env.AUTO_BLOCK || "212,99,90",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "254762016957",
-  SUDO_NUMBERS: process.env.SUDO_NUMBERS || "254728746852,254742063632",
+  SUDO_NUMBERS: process.env.SUDO_NUMBERS || "254762016957,254728746852,254742063632",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyAkHGe6qWMujR2BjM468vQbY2RIbp0VXyc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
