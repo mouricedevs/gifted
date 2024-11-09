@@ -1,13 +1,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
+- Bot is Safe for Heroku so don't ask more questions
+
 
 <details>
 <summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
   
 - 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈🔥.
 - 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔🤫.
-- Fixed Gpt/Gpt4 Command.
+- Deprecated Buttoned Commands so everything is fine.
 
 </details>
 
