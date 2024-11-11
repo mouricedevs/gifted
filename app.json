@@ -1,4 +1,3 @@
-
 {
   "name": "gifted-md",
   "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
@@ -42,6 +41,11 @@
       "description": "Make it true if you want bot to read and like status else leave blank",
       "required": false,
       "value": "true"
+    },
+    "AUTOLIKE_EMOJI": {
+      "description": "Input your custom status like emoji else leave blank to use default => 💚",
+      "required": false,
+      "value": "💚"
     },
     "AUTO_REPLY_STATUS": {
       "description": "make it true if you want the bot to send message after viewing status else leave blank",
