@@ -15,7 +15,7 @@
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
