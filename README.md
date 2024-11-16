@@ -52,7 +52,7 @@
 **(A) HEROKU DEPLOYMENT**
 
 <details>
-<summary>SESSION_ID DEPLOY</summary>
+<summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
 <a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
@@ -60,9 +60,19 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(B) RENDER DEPLOYMENT**
+**(B) HOST ON TALKDROVE**
 <details>
-<summary>CLICK FOR MORE</summary>
+<summary>TAP TO OPEN</summary>
+<a href="https://host.talkdrove.com/signup?ref=L8QZZHYP"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
+
+<a href="https://youtu.be/PCqq34PJkAA?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
+</details>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**(C) RENDER DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
 <a href="https://dashboard.render.com/signup"><img src="https://img.shields.io/badge/RENDER%20SIGNUP-green" alt="Render" width="150"></a>
 
 <a href="https://youtu.be/TVu8CQPPliM?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
@@ -72,7 +82,7 @@
 
 **(D) KOYEB DEPLOYMENT**
 <details>
-<summary>CLICK FOR MORE</summary>
+<summary>TAP TO OPEN</summary>
 <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb" width="150"></a>
 
 <a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmouricedevs%2Fgifted&branch=main&name=gifted-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
@@ -80,9 +90,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(F) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+**(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
-<summary>CLICK FOR MORE</summary>
+<summary>TAP TO OPEN</summary>
 <a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
@@ -90,9 +100,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**(E) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
+**(F) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
 <details>
-<summary>CLICK FOR MORE</summary>
+<summary>TAP TO OPEN</summary>
 <a href="https://dash.rainxzet.com"><img src="https://img.shields.io/badge/RAINHOST%20SIGNUP-green" alt="Rainhost" width="150"></a>
 <a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
 <a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
@@ -102,7 +112,7 @@
 
 **(G) SCALINGO DEPLOYMENT**
 <details>
-<summary>CLICK FOR MORE</summary>
+<summary>TAP TO OPEN</summary>
 <a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
