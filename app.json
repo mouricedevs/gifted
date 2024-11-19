@@ -8,7 +8,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Gifted~WuBgXIqC#eDXdE_H3jqrIIj1ilPhP2ulvB1NimAO36SFMBT7bbYU
       "description": "Your session id. Must Start with Gifted~",
       "required": true
     },
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "LIMIT"
     },
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "0739864702"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
@@ -34,18 +34,18 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot to view status else leave blank",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTOLIKE_STATUS": {
       "description": "Make it true if you want bot to read and like status else leave blank",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 💚",
       "required": false,
-      "value": "💚"
+      "value": "❤"
     },
     "AUTO_REPLY_STATUS": {
       "description": "make it true if you want the bot to send message after viewing status else leave blank",
@@ -71,7 +71,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "Make it true if you want bot to show always online else leave blank",
-      "required": false
+      "required": true
     },
     "AUTO_BLOCK": {
       "description": "Provide country codes you want the bot to automatically block else leave blank",
@@ -85,7 +85,7 @@
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
       "required": false,
-      "value": "."
+      "value": "*"
     }
   },
   "formation": {
