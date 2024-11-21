@@ -8,7 +8,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Gifted~WuBgXIqC#eDXdE_H3jqrIIj1ilPhP2ulvB1NimAO36SFMBT7bbYU
       "description": "Your session id. Must Start with Gifted~",
       "required": true
     },
