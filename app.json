@@ -9,26 +9,26 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~HiQyCSLJ#e51M8BE_JaySGBfiHATcuTn4iEW4sydEKiVGGE2rpz4",
       "required": true
     },
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "SAKILA BOY",
       "required": true,
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put Owner Number Here",
+      "description": "+94 75 259 2825",
       "required": true,
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
+      "description": "+94 75 259 2825",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
