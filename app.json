@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "",
+      "description": "Gifted~yrp02A4L#dcOYOPsmMi6vsSEZQ1196TqXkBvZF4RJsg2MPsSofEY",
       "required": true
     },
     "MODE": {
