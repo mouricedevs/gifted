@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Gifted~u6BllJbB#Fyz-wciS0zVQq4cON5HBIvBjBUuXuRyCL7QbS01znFs",
+      "description": "",
       "required": true
     },
     "MODE": {
@@ -23,12 +23,12 @@
       "value": "Gifted Tech"
     },
     "OWNER_NUMBER": {
-      "description": "94719357076",
+      "description": "94752592825",
       "required": true,
       "value": "254762016957"
     },
     "SUDO_NUMBERS": {
-      "description": "94719357076",
+      "description": "94752592825",
       "required": false,
       "value": "254762016957,254728746852,254742063632"
     },
