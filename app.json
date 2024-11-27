@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~DzYTQZqQ#UnPkbx7RzvfNNlUViIdyF-hMzeFxyKDKaqD-dnnzveE",
       "required": true
     },
     "MODE": {
@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "256785191109"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
