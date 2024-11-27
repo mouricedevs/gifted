@@ -8,7 +8,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Gifted~fqAAAZhK#jJ5DT9o-8SbHQwh5PRtHg43TtKOxud4LIJTS2-i_9wY
       "description": "Your session id. Must Start with Gifted~",
       "required": true
     },
@@ -25,26 +25,26 @@
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "27739864702"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
       "required": false,
-      "value": "254762016957,254728746852,254742063632"
+      "value": "254762016957,254728746852,254742063632,27739864702"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot to view status else leave blank",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTOLIKE_STATUS": {
       "description": "Make it true if you want bot to read and like status else leave blank",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 💚",
-      "required": false,
+      "required": true,
       "value": "💚"
     },
     "AUTO_REPLY_STATUS": {
@@ -59,11 +59,11 @@
     },
     "AUTO_READ_MESSAGES": {
       "description": "Make it true if you want bot to always read messages else leave blank",
-      "required": false
+      "required": true
     },
     "AUTO_TYPING": {
       "description": "Make it true if you want bot to always show typing else leave blank",
-      "required": false
+      "required": true
     },
     "AUTO_RECORDING": {
       "description": "Make it true if you want bot to always show recording audio else leave blank",
