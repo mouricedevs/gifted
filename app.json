@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'Gifted~'",
       "required": true,
-      "value": "false"
+      "value": ""
     },  
     "MODE": {
       "description": "Set Mode  to 'public' or private. Default is 'public'",
