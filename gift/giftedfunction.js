@@ -210,7 +210,7 @@ const fetchJson = async (url, options) => {
 
 const giftedUrls = async () => {
     try {
-        const response = await fetch('https://cmds.giftedtech.my.id/gifted-md.json');
+        const response = await fetch(`${global.pluginsdb}/gifted-md.json`);
         if (!response.ok) throw new Error(`Failed to fetch plugin URLs: ${response.statusText}`);
         const data = await response.json();
         return data.plugins.map(plugin => plugin.url);
