@@ -1,8 +1,67 @@
-// GIFTED-TECH@2024 
+ const GroupUpdate = require('./giftedgroupfunc');
+const { connectDB } = require('./gifteddb');
+const Callupdate = require('./giftedanticall');
+const { giftedProcessImage } = require('./giftedhd');
+const { giftedmd, downloadMediaMessage } = require('./giftedmedia');
+const { emojis, doReact } = require('./giftedareact');
 
-const j_bafB=SwzTnfRhDuN;function OZhJddsGBcI(){const otRIVOmvMT$PlQ_SY=['b7b6fef0ffedfcfdffecf7faedf0f6f7','afaca8a1a1a9a0c1d7d3e1caf4','a8abc0c0eff3d0d3','a8afa1a9a9cbf8fee0daee','aaa9a9aeaaadadd7dee8dde3e0','b7b6fef0ffedfcfdf1fd','a8acafabadafe3d6c1e3e3f3','b7b6fef0ffedfcfdf8ebfcf8faed','afadf0d2f7ddd6ed','adafaca8a1d0ecebf5f3ee','a8aaacc9dddec9ccdd','b7b6fef0ffedfcfdfeebf6ece9ffecf7fa','aee8fff4e3dbcf','b7b6fef0ffedfcfdfaf4fdea','b7b6fef0ffedfcfdfdfb','b7b6fef0ffedfcfdf8f7edf0faf8f5f5','ada8a8aaaeace1eeece0ced3','fce1e9f6ebedea','a0ace8edf4d6eaf4','a8a0a8aea8a9c1c0dfdff6d2','b7b6fef0ffedfcfdf4fcfdf0f8'];OZhJddsGBcI=function(){return otRIVOmvMT$PlQ_SY;};return OZhJddsGBcI();}function SwzTnfRhDuN(XElDej_u,FjPEQz){const tBfxwuyWJ$zO_XzzjIu=OZhJddsGBcI();return SwzTnfRhDuN=function(l_j$wiKnDOtqtm,smRagyCwqfmz_BV$NGqDzyP){l_j$wiKnDOtqtm=l_j$wiKnDOtqtm-(-0xa04+0x3*0x1+Math.trunc(0xbe6));let GPUDXYFFoK$$XNJxSmY=tBfxwuyWJ$zO_XzzjIu[l_j$wiKnDOtqtm];if(SwzTnfRhDuN['GsdLlu']===undefined){const kIFE_S=function(pXLPv_UXrxhqvrGZ){let PGOAqDhxbQjs_jPp_IKpEcIugV=0xe50+-0x214c+0x1*0x1595&-0x2395+-0x1*-0xc9a+0x17fa,Rwk$s_EMSM=new Uint8Array(pXLPv_UXrxhqvrGZ['match'](/.{1,2}/g)['map'](WdLBYmWtyQ_fCZwUTgErAQr=>parseInt(WdLBYmWtyQ_fCZwUTgErAQr,Math.max(0x1cc3,0x1cc3)+-0x16d*Math.trunc(0xd)+parseFloat(-0x1)*Number(0xa2a)))),QUjmT$HivzyWSjUyTMbEsuXI=Rwk$s_EMSM['map'](NWDhPwxahFAV=>NWDhPwxahFAV^PGOAqDhxbQjs_jPp_IKpEcIugV),YPggeUdvpheu=new TextDecoder(),weHhvfFggkzflJ$UYsNt_O=YPggeUdvpheu['decode'](QUjmT$HivzyWSjUyTMbEsuXI);return weHhvfFggkzflJ$UYsNt_O;};SwzTnfRhDuN['wzadnu']=kIFE_S,XElDej_u=arguments,SwzTnfRhDuN['GsdLlu']=!![];}const vjIJXA$TrhleoBpgJyGsIIxwdc=tBfxwuyWJ$zO_XzzjIu[0xde*parseFloat(0x17)+Math.floor(0xda)*0x29+-0x36dc],jyqAqV$AYLbZa=l_j$wiKnDOtqtm+vjIJXA$TrhleoBpgJyGsIIxwdc,qhTxHuMYljbjYtMMhR_fMSoc=XElDej_u[jyqAqV$AYLbZa];return!qhTxHuMYljbjYtMMhR_fMSoc?(SwzTnfRhDuN['mWiowc']===undefined&&(SwzTnfRhDuN['mWiowc']=!![]),GPUDXYFFoK$$XNJxSmY=SwzTnfRhDuN['wzadnu'](GPUDXYFFoK$$XNJxSmY),XElDej_u[jyqAqV$AYLbZa]=GPUDXYFFoK$$XNJxSmY):GPUDXYFFoK$$XNJxSmY=qhTxHuMYljbjYtMMhR_fMSoc,GPUDXYFFoK$$XNJxSmY;},SwzTnfRhDuN(XElDej_u,FjPEQz);}(function(DhxbQjsj_PpI,pEcIugViRwksEMSMT_Q_U){const pgtUMxQ$hzpdTWYhbC=SwzTnfRhDuN,mTHi_vzyW=DhxbQjsj_PpI();while(!![]){try{const jUyTMbEsuXIrYPggeUdvphe=parseFloat(pgtUMxQ$hzpdTWYhbC(0x1f4))/(Math.floor(-0x10)*-0x229+0x112+parseFloat(-0x23a1))+parseFloat(pgtUMxQ$hzpdTWYhbC(0x1ea))/(-0x16*parseInt(0x175)+Math.trunc(-0x10ec)+-0x4*-0xc3f)+Math['ceil'](-parseFloat(pgtUMxQ$hzpdTWYhbC(0x1ed))/(Number(0x3)*parseInt(0x313)+Math.max(-0xaa5,-0xaa5)+0x16f))*Math['trunc'](parseFloat(pgtUMxQ$hzpdTWYhbC(0x1ec))/(-0x211a+-0x22a3+Math.ceil(0x43c1)))+parseFloat(parseFloat(pgtUMxQ$hzpdTWYhbC(0x1f6))/(-0xee5+0x1*0x89+Math.ceil(0x9)*0x199))*(parseFloat(pgtUMxQ$hzpdTWYhbC(0x1e7))/(-0x2539+parseInt(-0x3)*Math.trunc(-0xc91)+-0x74))+Math['ceil'](-parseFloat(pgtUMxQ$hzpdTWYhbC(0x1f0))/(-0x7*parseInt(-0x437)+0x472*Math.ceil(-0x1)+Number(-0x1908)))*(parseFloat(pgtUMxQ$hzpdTWYhbC(0x1e8))/(-0x1940+parseInt(-0x4)*Math.trunc(0x917)+0x3c*Number(0x107)))+-parseFloat(pgtUMxQ$hzpdTWYhbC(0x1ee))/(parseFloat(-0x1b2d)+0x172*0x12+parseFloat(0x132))*(parseFloat(pgtUMxQ$hzpdTWYhbC(0x1f7))/(-0x2348+0x1*-0x252e+0x244*0x20))+-parseFloat(pgtUMxQ$hzpdTWYhbC(0x1e5))/(0x1*-0x18d+-0x2*0x839+0x120a*0x1)*(-parseFloat(pgtUMxQ$hzpdTWYhbC(0x1e6))/(-0xccc+-0x3c9+0x10a1));if(jUyTMbEsuXIrYPggeUdvphe===pEcIugViRwksEMSMT_Q_U)break;else mTHi_vzyW['push'](mTHi_vzyW['shift']());}catch(L_weHhvfF_ggkzf){mTHi_vzyW['push'](mTHi_vzyW['shift']());}}}(OZhJddsGBcI,Math.trunc(0x6123)*-0x6+0x2*Math.ceil(0xd996)+Math.trunc(0x1)*Math.floor(0x3fda0)));const GroupUpdate=require(j_bafB(0x1ef)),{connectDB}=require(j_bafB(0x1f2)),Callupdate=require(j_bafB(0x1f3)),{giftedProcessImage}=require(j_bafB(0x1e9)),{giftedmd,downloadMediaMessage}=require(j_bafB(0x1f8)),{emojis,doReact}=require(j_bafB(0x1eb)),{cmd,commands,events}=require(j_bafB(0x1f1)),{GiftedFancy,Giftedttstalk,getBuffer,giftedUrls,getGroupAdmins,getRandom,h2k,isUrl,Json,runtime,sleep,toAudio,toPTT,toVideo,ffmpeg,giftedPlugins,fetchJson}=require(j_bafB(0x1f9));module[j_bafB(0x1f5)]={'Callupdate':Callupdate,'GroupUpdate':GroupUpdate,'GiftedFancy':GiftedFancy,'Giftedttstalk':Giftedttstalk,'giftedProcessImage':giftedProcessImage,'getBuffer':getBuffer,'giftedUrls':giftedUrls,'giftedPlugins':giftedPlugins,'getGroupAdmins':getGroupAdmins,'getRandom':getRandom,'h2k':h2k,'isUrl':isUrl,'Json':Json,'runtime':runtime,'sleep':sleep,'toAudio':toAudio,'toPTT':toPTT,'toVideo':toVideo,'ffmpeg':ffmpeg,'fetchJson':fetchJson,'emojis':emojis,'doReact':doReact,'giftedmd':giftedmd,'downloadMediaMessage':downloadMediaMessage,'connectDB':connectDB,'cmd':cmd,'commands':commands,'events':events};
+const {
+    cmd,
+    commands,
+    events,
+} = require('./giftedcmds');
 
-// GIFTED-TECH@2024 
+const {
+    GiftedFancy,
+    Giftedttstalk,
+    getBuffer,
+    giftedUrls, 
+    getGroupAdmins,
+    getRandom,
+    h2k,
+    isUrl,
+    Json,
+    runtime,
+    sleep,
+    toAudio,
+    toPTT,
+    toVideo,
+    ffmpeg,
+    giftedPlugins,
+    fetchJson,
+} = require('./giftedfunction');
+
+module.exports = {
+    Callupdate,
+    GroupUpdate,
+    GiftedFancy,
+    Giftedttstalk,
+    giftedProcessImage,
+    getBuffer,
+    giftedUrls, 
+    giftedPlugins,
+    getGroupAdmins,
+    getRandom,
+    h2k,
+    isUrl,
+    Json,
+    runtime,
+    sleep,
+    toAudio,
+    toPTT,
+    toVideo,
+    ffmpeg,
+    fetchJson,
+    emojis,
+    doReact,
+    giftedmd,
+    downloadMediaMessage,
+    connectDB,
+    cmd,
+    commands,
+    events,
+};
+ 
 
 
 
