@@ -9,7 +9,7 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Gifted~qqo2jCoS#344dvjMGgKg8QFyVGidAkCJmuzXzPuXQ0WmGIGEii_o
       "description": "Put your session-id here. Must Start with 'Gifted~'",
       "required": true,
       "value": ""
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "LIMIT Tech"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 2547xxxxx",
       "required": true,
-      "value": ""
+      "value": "27739864702"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
@@ -41,7 +41,7 @@
     },
     "AUTOLIKE_STATUS": {
       "description": "Make it 'true' if you want bot to read and like statuses",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTOLIKE_EMOJI": {
@@ -112,7 +112,7 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": true,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃"
+      "value": "LIMIT-𝐌𝐃"
     },
     "BOT_PIC": {
       "description": "You can edit this but it must be a valid image url(link).",
