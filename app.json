@@ -45,9 +45,9 @@
       "value": "true"
     },
     "AUTOLIKE_EMOJI": {
-      "description": "Input your custom status like emoji(any) else leave blank to use default => 💚",
+      "description": "Input your custom status like emoji(any) else leave blank to use default => 💜",
       "required": false,
-      "value": "💚"
+      "value": "💜"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
