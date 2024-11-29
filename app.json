@@ -120,7 +120,7 @@
       "value": "https://files.giftedtech.my.id/file/gifted-md.jpg"
     },
     "PREFIX": {
-      "description": "Your Bot Prefix (default: +) You can put your own custom prefix",
+      "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
       "required": true,
       "value": "."
     }
