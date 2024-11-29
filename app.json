@@ -1,0 +1,140 @@
+
+{
+  "name": "gifted-md",
+  "version": "5.0.0",
+  "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to Enhance WhatsApp Communication experience",
+  "website": "https://session.giftedtech.my.id",
+  "logo": "https://files.catbox.moe/52699c.jpg",
+  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "repository": "https://github.com/mouricedevs/gifted",
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your session-id here. Must Start with 'Gifted~'",
+      "required": true,
+      "value": ""
+    },  
+    "MODE": {
+      "description": "Set Mode  to 'public' or private. Default is 'public'",
+      "required": false,
+      "value": "public"
+    },
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": true,
+      "value": "Gifted Tech"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here ie 2547xxxxx",
+      "required": true,
+      "value": ""
+    },
+    "SUDO_NUMBERS": {
+      "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
+      "required": false,
+      "value": ""
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Make it true if you want bot to view statuses",
+      "required": true,
+      "value": "true"
+    },
+    "AUTOLIKE_STATUS": {
+      "description": "Make it 'true' if you want bot to read and like statuses",
+      "required": false,
+      "value": "true"
+    },
+    "AUTOLIKE_EMOJI": {
+      "description": "Input your custom status like emoji(any) else leave blank to use default => 💜",
+      "required": false,
+      "value": "💜"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "Make it 'true' if you want the bot to send message after viewing status",
+      "required": false,
+      "value": "false"
+    },
+    "STATUS_REPLY_MSG": {
+      "description": "Set your status reply message to be sent after bot views status",
+      "required": false,
+      "value": "Status Viewed ✅️"
+    },
+    "AUTO_READ_MESSAGES": {
+      "description": "Make it 'true' if you want bot to always read messages",
+      "required": false,
+      "value": "false"
+    },
+    "PRESENCE": {
+      "description": "Put 'online' for always online, 'typing' for always typing a message, 'recording' for always recording audio or 'null' to maintain your presence",
+      "required": true,
+      "value": "online"
+    },
+    "WELCOME": {
+      "description": "Put true if you want the bot to automatically welcome participants whenever they join a group",
+      "required": false,
+      "value": "false"
+    },
+    "GOODBYE": {
+      "description": "Put true if you want the bot to automatically send goodbye message whenever participants leave/exit a group",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_AUDIO": {
+      "description": "Put true if you want the bot to automatically send audio in chat if you use  words such as: hi, gn, gm",
+      "required": false,
+      "value": "false"
+    },
+    "TIME_ZONE": {
+      "description": "Put your timezone or leave to default if you do not know",
+      "required": false,
+      "value": "Africa/Nairobi"
+    },
+    "AUTO_BLOCK": {
+      "description": "Provide country codes you want the bot to automatically block",
+      "required": false,
+      "value": "212,77,12"
+    },
+    "AUTO_REACT": {
+      "description": "Put 'true' if you want the bot to auto react to messages",
+      "required": false,
+      "value": "false"
+    },
+    "ANTICALL": {
+      "description": "Make it 'true' if you want to automatically reject calls",
+      "required": false,
+      "value": "false"
+    },
+    "ANTICALL_MSG": {
+      "description": "Put Your own Anticall Message the bot will send after rejecting calls",
+      "required": false,
+      "value": "*_📞 Auto Call Reject Mode Activated by Gifted-Md. 📵 No Calls Allowed Dude!_*"
+    },
+    "BOT_NAME": {
+      "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
+      "required": true,
+      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃"
+    },
+    "BOT_PIC": {
+      "description": "You can edit this but it must be a valid image url(link).",
+      "required": true,
+      "value": "https://files.giftedtech.my.id/file/gifted-md.jpg"
+    },
+    "PREFIX": {
+      "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
+      "required": true,
+      "value": "."
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+  }
