@@ -1,20 +1,57 @@
-// GIFTED-TECH@2024
+const { TIME_ZONE: tzone } = require('../set'),
+      moment = require('moment-timezone');
 
-function CIy$gceCMvaTTaeClVG$d(){const ucisagHmPgkTjqoLGUmi=['3f2d242b27252d','1b1d0a020d0b1c','48070648','5c585859583b2e02392927','090c0c','2f27272c2a312d','181a070e01040d38010b1c1d1a0d3d1a04','5f5b5b5f51501c121d3d3a11','1c1a1d0d','56482f07070c0a110d4828','0e071a05091c','595d595c5d582c29293b3a25','1a0d05071e0d','18091a1c010b011809061c1b','2020520505521b1b','59595e585e59311922202f3f','595d515e09030c3a0d3f','5648200d0404074828','2c2c4725254731313131','0d1018071a1c1b','5a59040c21220620','59505e515958203f10043d0d','49483f0d040b07050d481c074842','480106481c000d480f1a071d1846625648240d0e1c48091c5248','040d060f1c00','4646471b0d1c','5a5a5c5a515a2b1f2f3a0c32','001c1c181b5247470f010e1c0d0c1c0d0b0046051146010c','3d1b0d1a48220701060d0c481c000d482f1a071d18','1b1804011c','3d1b0d1a48240d0e1c481c000d482f1a071d18','424662564831071d48091a0d481c000d48','1c0048050d050a0d1a46625648220701060d0c48091c5248','0105090f0d','480e1a070548','5b5a5e515c3a201c272c0f','1b0d060c250d1b1b090f0d','001c1c181b52474704005b460f07070f040d1d1b0d1a0b07061c0d061c460b070547181a071011470d1b0202123a31073004000f263130193d502f0e375b041d5e3e450d27263c0611050324120c1f395e2e5e1258253f2919211f2118190f193704035c0b093a21322e37583d190a5d3d50263f261a220b090d3c1d2b02185f10320418245c50222c1045191229303b3c005858293e3e192a073c5f2522585a5d51180103510506395924040c2e240e20323d2f2c2f31551f595a585845005e5b584518450345060745061d','5a5f5821230f273d3b','0f1a071d18250d1c090c091c09','0507050d061c451c01050d1207060d','466256483f0d48091a0d4806071f48','5b5e585d5d505c0630023f3d32','515a1c3c312b2f0d'];CIy$gceCMvaTTaeClVG$d=function(){return ucisagHmPgkTjqoLGUmi;};return CIy$gceCMvaTTaeClVG$d();}const RBOVRgjOKjfz_CdSWjkIeovYc=XcOZNVtMey$sG$CQfOiEaW;(function(VUSlNEhRpMxLQq,EpsWrqgWhsgMhArEhQ){const WvVdJZFMcPwXRTZuNyUBJi__vVB=XcOZNVtMey$sG$CQfOiEaW,ZN$SqdmWPZboR=VUSlNEhRpMxLQq();while(!![]){try{const RaCnGOTKWRUPUZDC_JVVQn=parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xe9))/(parseInt(0x1a38)+0x2300+Number(-parseInt(0x1))*0x3d37)+-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xe5))/(Number(0x1483)*-0x1+parseInt(-0x180)*-parseInt(0x13)+-parseInt(0x7fb))+parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0x101))/(0x162+Number(0x2)*Math.ceil(parseInt(0x4af))+-0xabd)*(-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0x109))/(parseInt(0x239a)+0x86*-0x48+Math.trunc(parseInt(0x21a))))+Math['max'](parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xf3))/(Math.floor(0x1161)+Math.ceil(parseInt(0xbc7))+parseInt(0x1)*Math.max(-0x1d23,-parseInt(0x1d23))),parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xf8))/(parseInt(0x11f2)+-0x1f6+parseInt(-parseInt(0xff6))))*(-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xf2))/(0x2437+Math.max(-parseInt(0x11ef),-0x11ef)*0x1+-0x1241))+-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0x108))/(-0x1*parseFloat(-0x1c1d)+-parseInt(0x1e16)+0x3*parseInt(0xab))+Math['trunc'](parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0x104))/(-0x8*parseInt(0x29c)+parseInt(0x1d0)+parseInt(0x1)*Math.floor(0x1319)))*parseFloat(-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xe1))/(Math.trunc(0x183)*-parseInt(0x18)+-0x28d*parseInt(0x1)+0x26df))+Math['floor'](-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xed))/(0x13cf+-0xf84+Math.ceil(-parseInt(0x440))*0x1))*(-parseFloat(WvVdJZFMcPwXRTZuNyUBJi__vVB(0xee))/(Math.ceil(0x226a)+-parseInt(0x118d)*Number(-0x1)+Math.ceil(-parseInt(0x1))*0x33eb));if(RaCnGOTKWRUPUZDC_JVVQn===EpsWrqgWhsgMhArEhQ)break;else ZN$SqdmWPZboR['push'](ZN$SqdmWPZboR['shift']());}catch(vKwG_ycXlyWV_c){ZN$SqdmWPZboR['push'](ZN$SqdmWPZboR['shift']());}}}(CIy$gceCMvaTTaeClVG$d,-0x4421a+-0x5c7fd+parseFloat(-parseInt(0x5bd))*parseFloat(-parseInt(0x26d))));function XcOZNVtMey$sG$CQfOiEaW(sWkzifrFz__uHtu,Pb$gt$dybP){const c_kVNTxaMTSgjs=CIy$gceCMvaTTaeClVG$d();return XcOZNVtMey$sG$CQfOiEaW=function(mEwjtscrADSVsoLC$_R,oswARGtGqTeVd){mEwjtscrADSVsoLC$_R=mEwjtscrADSVsoLC$_R-(0x2*0x61c+-parseInt(0x1)*-parseInt(0x9fc)+Math.ceil(-0x1555));let xofv$az=c_kVNTxaMTSgjs[mEwjtscrADSVsoLC$_R];if(XcOZNVtMey$sG$CQfOiEaW['jFENDt']===undefined){const yapcgQxWNIeQecFaW=function(JslMQtiQMwcbXOKyMxoyMjt){let EwzcDH$CA$dEdTF=-parseInt(0x267e)*parseInt(0x1)+0x1c8e+Math.max(-parseInt(0x58),-parseInt(0x58))*Number(-0x21)&0x1597*0x1+Math.max(parseInt(0x2628),parseInt(0x2628))+-parseInt(0x758)*0x8,X$AZiqTd_Ou=new Uint8Array(JslMQtiQMwcbXOKyMxoyMjt['match'](/.{1,2}/g)['map'](H$h_nuctxy=>parseInt(H$h_nuctxy,-0x1653*-parseInt(0x1)+parseFloat(-parseInt(0x5))*0x563+-parseInt(0x4ac)*-0x1))),ayFIxXxcyEEpekUYgxWiBGow=X$AZiqTd_Ou['map'](RTQrXMDjD$AASRMtzuURyRHtOD=>RTQrXMDjD$AASRMtzuURyRHtOD^EwzcDH$CA$dEdTF),AhyudjNwVUV_iu=new TextDecoder(),VCpoJHEuRfdyv_DVj_n=AhyudjNwVUV_iu['decode'](ayFIxXxcyEEpekUYgxWiBGow);return VCpoJHEuRfdyv_DVj_n;};XcOZNVtMey$sG$CQfOiEaW['SUnEyZ']=yapcgQxWNIeQecFaW,sWkzifrFz__uHtu=arguments,XcOZNVtMey$sG$CQfOiEaW['jFENDt']=!![];}const uFMAPcmRX$dz=c_kVNTxaMTSgjs[0x7*-parseInt(0x4ea)+-parseInt(0x1ccb)+parseInt(0x3f31)],uGBLLgR_CyAuRrHYWn$SzMsA=mEwjtscrADSVsoLC$_R+uFMAPcmRX$dz,RhwMIdPJkCwspwiReWozG_i=sWkzifrFz__uHtu[uGBLLgR_CyAuRrHYWn$SzMsA];return!RhwMIdPJkCwspwiReWozG_i?(XcOZNVtMey$sG$CQfOiEaW['NBlEgi']===undefined&&(XcOZNVtMey$sG$CQfOiEaW['NBlEgi']=!![]),xofv$az=XcOZNVtMey$sG$CQfOiEaW['SUnEyZ'](xofv$az),sWkzifrFz__uHtu[uGBLLgR_CyAuRrHYWn$SzMsA]=xofv$az):xofv$az=RhwMIdPJkCwspwiReWozG_i,xofv$az;},XcOZNVtMey$sG$CQfOiEaW(sWkzifrFz__uHtu,Pb$gt$dybP);}const {TIME_ZONE:tzone}=require(RBOVRgjOKjfz_CdSWjkIeovYc(0xf7)),moment=require(RBOVRgjOKjfz_CdSWjkIeovYc(0x106));module[RBOVRgjOKjfz_CdSWjkIeovYc(0xf1)]=async function GroupUpdate(rFzuHtu,{id:PbgtdybP,participants:ckVNT_xaM$TSgjs,action:mEwjt_scrAD_SVsoLCR}){const naUo_bTuAJlnZH=RBOVRgjOKjfz_CdSWjkIeovYc;try{const osw_ARGtG$qTeVd=await rFzuHtu[naUo_bTuAJlnZH(0x105)](PbgtdybP);for(const x_ofvaz of ckVNT_xaM$TSgjs){let uFMAPcmRXdz;try{uFMAPcmRXdz=await rFzuHtu[naUo_bTuAJlnZH(0xe4)](x_ofvaz,naUo_bTuAJlnZH(0xff));}catch{uFMAPcmRXdz=naUo_bTuAJlnZH(0x103);}if(mEwjt_scrAD_SVsoLCR===naUo_bTuAJlnZH(0xe2)&&config[naUo_bTuAJlnZH(0x10a)]===naUo_bTuAJlnZH(0xe6)){const uGBLLgRCyAuRrHYWnSz$MsA=x_ofvaz[naUo_bTuAJlnZH(0xfb)]('@')[-parseInt(0x24ea)+parseInt(0x2058)+Math.max(0x492,0x492)],RhwMIdPJkCwspwi$R$eWozGi=moment['tz'](tzone)[naUo_bTuAJlnZH(0xe8)](naUo_bTuAJlnZH(0xec)),yapcgQxWNIeQecFaW=moment['tz'](tzone)[naUo_bTuAJlnZH(0xe8)](naUo_bTuAJlnZH(0xf0)),JslMQt_iQMwc$bXOKyMxoyMjt=osw_ARGtG$qTeVd[naUo_bTuAJlnZH(0xeb)][naUo_bTuAJlnZH(0xf6)];rFzuHtu[naUo_bTuAJlnZH(0x102)](PbgtdybP,{'text':naUo_bTuAJlnZH(0xef)+uGBLLgRCyAuRrHYWnSz$MsA+naUo_bTuAJlnZH(0xf4)+osw_ARGtG$qTeVd[naUo_bTuAJlnZH(0xdf)]+naUo_bTuAJlnZH(0xfd)+JslMQt_iQMwc$bXOKyMxoyMjt+naUo_bTuAJlnZH(0xfe)+RhwMIdPJkCwspwi$R$eWozGi+naUo_bTuAJlnZH(0xe0)+yapcgQxWNIeQecFaW,'contextInfo':{'mentionedJid':[x_ofvaz],'externalAdReply':{'title':naUo_bTuAJlnZH(0xfa),'mediaType':0x1,'previewType':0x0,'renderLargerThumbnail':!![],'thumbnailUrl':osw_ARGtG$qTeVd[naUo_bTuAJlnZH(0xdf)],'sourceUrl':naUo_bTuAJlnZH(0xf9)}}});}else{if(mEwjt_scrAD_SVsoLCR===naUo_bTuAJlnZH(0xea)&&config[naUo_bTuAJlnZH(0xe3)]===naUo_bTuAJlnZH(0xe6)){const EwzcDHCAdEdTF=x_ofvaz[naUo_bTuAJlnZH(0xfb)]('@')[parseInt(parseInt(0x7))*-0x6f+0x1da6+-0x1a9d],XAZiq_TdOu=moment['tz'](tzone)[naUo_bTuAJlnZH(0xe8)](naUo_bTuAJlnZH(0xec)),ayFIx$XxcyEEpekUY_gxWiBGow=moment['tz'](tzone)[naUo_bTuAJlnZH(0xe8)](naUo_bTuAJlnZH(0xf0)),AhyudjN$wVUViu=osw_ARGtG$qTeVd[naUo_bTuAJlnZH(0xeb)][naUo_bTuAJlnZH(0xf6)];rFzuHtu[naUo_bTuAJlnZH(0x102)](PbgtdybP,{'text':naUo_bTuAJlnZH(0xe7)+EwzcDHCAdEdTF+naUo_bTuAJlnZH(0x100)+osw_ARGtG$qTeVd[naUo_bTuAJlnZH(0xdf)]+naUo_bTuAJlnZH(0x107)+AhyudjN$wVUViu+naUo_bTuAJlnZH(0xf5)+XAZiq_TdOu+naUo_bTuAJlnZH(0xe0)+ayFIx$XxcyEEpekUY_gxWiBGow,'contextInfo':{'mentionedJid':[x_ofvaz],'externalAdReply':{'title':naUo_bTuAJlnZH(0xfc),'mediaType':0x1,'previewType':0x0,'renderLargerThumbnail':!![],'thumbnailUrl':uFMAPcmRXdz,'sourceUrl':naUo_bTuAJlnZH(0xf9)}}});}}}}catch(VC_poJHE_uRfdyvDVjn){throw VC_poJHE_uRfdyvDVjn;}};
-
-// GIFTED-TECH@2024
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+module.exports = async function GroupUpdate(Gifted, { id, participants, action }) {
+   try {
+      const metadata = await Gifted.groupMetadata(id);
+      for (const jid of participants) {
+         let profile;
+         try {
+            profile = await Gifted.profilePictureUrl(jid, "image");
+         } catch {
+            profile = "https://lh3.googleusercontent.com/proxy/esjjzRYoXlhgNYXqU8Gf_3lu6V-eONTnymkLzdwQ6F6z0MWAqIwIpqgq_lk4caRIZF_0Uqb5U8NWNrJcaeTuCjp7xZlpL48JDx-qzAXSTh00AVVqBoT7MJ0259pik9mnQ1LldFLfHZUGDGY=w1200-h630-p-k-no-nu";
+         }
+         if (action === "add" && config.WELCOME === "true") {
+            const userName = jid.split("@")[0];
+            const joinTime = moment.tz(tzone).format('HH:mm:ss');
+            const joinDate = moment.tz(tzone).format('DD/MM/YYYY');
+            const membersCount = metadata.participants.length;
+            Gifted.sendMessage(id, {
+               text: `> Hello @${userName}! Welcome to *${metadata.subject}*.\n> You are the ${membersCount}th member.\n> Joined at: ${joinTime} on ${joinDate}`,
+               contextInfo: {
+                  mentionedJid: [jid],
+                  externalAdReply: {
+                     title: `User Joined the Group`,
+                     mediaType: 1,
+                     previewType: 0,
+                     renderLargerThumbnail: true,
+                     thumbnailUrl: metadata.subject,
+                     sourceUrl: 'https://giftedtech.my.id'
+                  }
+               }
+            });
+         } else if (action === "remove" && config.GOODBYE === "true") {
+            const userName = jid.split('@')[0];
+            const leaveTime = moment.tz(tzone).format('HH:mm:ss');
+            const leaveDate = moment.tz(tzone).format('DD/MM/YYYY');
+            const membersCount = metadata.participants.length;
+            Gifted.sendMessage(id, {
+               text: `> Goodbye @${userName} from ${metadata.subject}.\n> We are now ${membersCount} in the group.\n> Left at: ${leaveTime} on ${leaveDate}`,
+               contextInfo: {
+                  mentionedJid: [jid],
+                  externalAdReply: {
+                     title: `User Left the Group`,
+                     mediaType: 1,
+                     previewType: 0,
+                     renderLargerThumbnail: true,
+                     thumbnailUrl: profile,
+                     sourceUrl: 'https://giftedtech.my.id'
+                  }
+               }
+            });
+         }
+      }
+   } catch (e) {
+      throw e;
+   }
+};
