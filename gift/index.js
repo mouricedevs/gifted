@@ -1,5 +1,5 @@
 const config = require('../set'),
-      GroupUpdate = require('./giftedgroupfunc'),
+      GroupUpdate = require('./giftedgroupevents'),
       { giftedProcessImage } = require('./giftedhd'),
       { giftedmd, downloadMediaMessage } = require('./giftedmedia'),
       { emojis, doReact } = require('./giftedareact'),
