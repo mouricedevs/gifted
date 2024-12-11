@@ -63,7 +63,7 @@
 **(B) HOST ON TALKDROVE**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://host.talkdrove.com/signup?ref=L8QZZHYP"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
+<a href="https://host.talkdrove.com/auth/signup?ref=53A2DE6D"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
 
 <a href="https://youtu.be/PCqq34PJkAA?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
