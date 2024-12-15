@@ -6,8 +6,12 @@ const convertToBool = (text, fault = 'true') => text === fault;
 
 global.caption = "*©𝟐𝟎𝟐𝟒 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 𝐕𝟓*"; // Input Yours custom...(Maintain font for Flow)
 global.api = "https://api.giftedtech.my.id/api"; // DO NOT Change this...
-global.myName = process.env.API_KEY;
+global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
 global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
+global.myName = process.env.API_KEY;
+global.myDb = "https://giftedmd.giftedtech.my.id"; // DO NOT Change this...
+global.ytdl = "https://ytdl.giftedtech.my.id";
+global.pluginsdb = "https://cmds.giftedtech.my.id"; // DO NOT Change this...
 
  
 module.exports = {
@@ -24,7 +28,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇
 PACK_AUTHOR: process.env.PACK_AUTHOR || "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
-API_KEY: process.env.API_KEY || "gifted-md", // Replace with your premium unlimited api key
+API_KEY: process.env.API_KEY || "", // Replace with your unlimited api key
 ANTIDELETE: process.env.ANTIDELETE || "false", // Still under development
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "false",
@@ -45,11 +49,6 @@ AUTO_BLOCK: process.env.AUTO_BLOCK || "212,79", // Add Multiple Country Codes Se
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null
 TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Enter yours else leave blank if not sure
 };
-
-global.pluginsdb = "https://cmds.giftedtech.my.id"; // DO NOT Change this...
-global.myDb = "https://giftedmd.giftedtech.my.id"; // DO NOT Change this...
-global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
-global.ytdl = "https://ytdl.giftedtech.my.id";
 
 let file = require.resolve(__filename); 
 fs.watchFile(file, () => { fs.unwatchFile(file); console.log(`Update '${__filename}'`); delete require.cache[file]; require(file); });
