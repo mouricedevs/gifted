@@ -6,9 +6,8 @@ const convertToBool = (text, fault = 'true') => text === fault;
 
 global.caption = "*©𝟐𝟎𝟐𝟒 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 𝐕𝟓*"; // Input Yours custom...(Maintain font for Flow)
 global.api = "https://api.giftedtech.my.id/api"; // DO NOT Change this...
-global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
+global.myName = process.env.API_KEY;
 global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
-global.ytdl = "https://ytdl.giftedtech.my.id";
 
  
 module.exports = {
@@ -29,7 +28,6 @@ API_KEY: process.env.API_KEY || "gifted-md", // Replace with your premium unlimi
 ANTIDELETE: process.env.ANTIDELETE || "false", // Still under development
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "false",
-ANTIBOT: process.env.ANTIBOT || "warn",
 ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Activated by Gifted-Md. 📵 No Calls Allowed Dude!_*",
@@ -49,8 +47,9 @@ TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Enter yours else leave 
 };
 
 global.pluginsdb = "https://cmds.giftedtech.my.id"; // DO NOT Change this...
-global.myName = process.env.API_KEY;
 global.myDb = "https://giftedmd.giftedtech.my.id"; // DO NOT Change this...
+global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
+global.ytdl = "https://ytdl.giftedtech.my.id";
 
 let file = require.resolve(__filename); 
 fs.watchFile(file, () => { fs.unwatchFile(file); console.log(`Update '${__filename}'`); delete require.cache[file]; require(file); });
