@@ -8,10 +8,7 @@ global.caption = "*©𝟐𝟎𝟐𝟒 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 𝐕𝟓
 global.api = "https://api.giftedtech.my.id/api"; // DO NOT Change this...
 global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
 global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
-global.myName = process.env.API_KEY;
-global.myDb = "https://giftedmd.giftedtech.my.id"; // DO NOT Change this...
 global.ytdl = "https://ytdl.giftedtech.my.id";
-global.pluginsdb = "https://cmds.giftedtech.my.id"; // DO NOT Change this...
 
  
 module.exports = {
@@ -50,6 +47,10 @@ AUTO_BLOCK: process.env.AUTO_BLOCK || "212,79", // Add Multiple Country Codes Se
 PRESENCE: process.env.PRESENCE || "online", // Choose one: typing, recording, online, null
 TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Enter yours else leave blank if not sure
 };
+
+global.pluginsdb = "https://cmds.giftedtech.my.id"; // DO NOT Change this...
+global.myName = process.env.API_KEY;
+global.myDb = "https://giftedmd.giftedtech.my.id"; // DO NOT Change this...
 
 let file = require.resolve(__filename); 
 fs.watchFile(file, () => { fs.unwatchFile(file); console.log(`Update '${__filename}'`); delete require.cache[file]; require(file); });
