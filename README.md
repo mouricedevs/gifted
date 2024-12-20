@@ -15,7 +15,7 @@
   
 </details>
 
-<a><img src='[](https://i.imgur.com/l6xR1wx.jpeg)'/></a>
+<a><img src='(https://i.imgur.com/l6xR1wx.jpeg)'/></a>
 
   <p align="center">
 <a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -60,7 +60,7 @@
 <a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
 </details>
 
-<a><img src='[https://i.imgur.com/l6xR1wx.jpeg](https://i.imgur.com/l6xR1wx.jpeg)'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 **(B) HOST ON TALKDROVE**
 <details>
@@ -90,7 +90,7 @@
 <a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmouricedevs%2Fgifted&branch=main&name=gifted-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 **(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
@@ -102,7 +102,7 @@
 <a href="https://youtu.be/1BwOqHhnFGs?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 **(F) RAINHOST (PTERODACTYL) PANEL 🔥 DEPLOYMENT**
 <details>
@@ -112,7 +112,7 @@
 <a href="https://youtu.be/8YpaGQQN_x4"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Rainhost Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 **(G) SCALINGO DEPLOYMENT**
 <details>
@@ -120,7 +120,7 @@
 <a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 
 ### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
@@ -133,7 +133,7 @@
 - **Check out my [Website Profile](https://giftedtech.my.id) for More Projects.**
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
