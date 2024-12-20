@@ -1,5 +1,5 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<a><img src='(https://i.imgur.com/l6xR1wx.jpeg)'/></a>
+<h1 align="center"> DECLAH-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
 
@@ -15,7 +15,7 @@
   
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[](https://i.imgur.com/l6xR1wx.jpeg)'/></a>
 
   <p align="center">
 <a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -60,7 +60,7 @@
 <a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[https://i.imgur.com/l6xR1wx.jpeg](https://i.imgur.com/l6xR1wx.jpeg)'/></a>
 
 **(B) HOST ON TALKDROVE**
 <details>
@@ -70,7 +70,7 @@
 <a href="https://youtu.be/YG3-oV2cVj8?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 **(C) RENDER DEPLOYMENT**
 <details>
@@ -80,7 +80,7 @@
 <a href="https://youtu.be/TVu8CQPPliM?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
 </details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
 
 **(D) KOYEB DEPLOYMENT**
 <details>
