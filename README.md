@@ -21,7 +21,7 @@
 <a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-LUNA TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
+<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/lunatech?label=Followers&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted?&style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted?style=social"></a>
 <a href="https://github.com/mouricedevs/gifted/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted?label=Watching&style=social"></a>
@@ -36,7 +36,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GIFTED-MD" width="150"></a>
+<a href="https://github.com/mouricedevs/gifted/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK DECLAH-MD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
@@ -47,7 +47,7 @@
 <summary>GET YOUR SESSION_ID</summary>
 <a href="https://session.giftedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
-- Session ID must start with **Gifted~** and is 15 characters in length.
+- Session ID must start with **Declah~** and is 15 characters in length.
 </details>
 
 ### 𝟑. 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐓𝐈𝐎𝐍:
@@ -57,7 +57,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
+<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Declah MD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
@@ -137,6 +137,6 @@
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
+[![Declah-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
