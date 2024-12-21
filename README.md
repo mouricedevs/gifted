@@ -128,9 +128,8 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://api.giftedtech.my.id/contact) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [Website Profile](https://giftedtech.my.id) for More Projects.**
+- **[CONTACT SUPPORT](https://api.lunatech.my.id/contact) For More Info**
+- ut my [Website Profile](https://lunatech.my.id) for More Projects.**
 </details>
 
 <a><img src='https://i.imgur.com/l6xR1wx.jpeg'/></a>
