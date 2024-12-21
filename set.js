@@ -7,7 +7,7 @@ const fs = require('fs'),
 global.caption = "*©𝟐𝟎24 DECLAH 𝐌𝐃 𝐕𝟓*"; // Input Yours custom...(Maintain font for Flow)
 global.api = "https://api.giftedtech.my.id/api"; // DO NOT Change this...
 global.session = "https://pair1.giftedtech.my.id"; // DO NOT Change this....
-global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
+global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ LUNA ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
 global.myName = process.env.API_KEY;
 global.myDb = "https://giftedmd.giftedtech.my.id"; // DO NOT Change this...
 global.ytdl = "https://ytdl.giftedtech.my.id";
@@ -37,7 +37,7 @@ BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Sep
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Activated by Declah-Md. 📵 No Calls Allowed Dude!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "DECLAH-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
-BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.my.id/file/gifted-md.jpg", // You can Replace with yours...
+BOT_PIC: process.env.BOT_PIC || "https://i.imgur.com/kXHLkVN.mp4", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "Declah MD creates things that creates other things",
