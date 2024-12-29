@@ -28,7 +28,7 @@ OWNER_NAME: process.env.OWNER_NAME || "LUNA 𝐓𝐄𝐂𝐇", // Input Yours cu
 PACK_AUTHOR: process.env.PACK_AUTHOR || "LUNA 𝐓𝐄𝐂𝐇", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "LUNATIC-𝐌𝐃💜", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
-API_KEY: process.env.API_KEY || "declah-md", // Replace with your unlimited api key
+API_KEY: process.env.API_KEY || "lunatic-md", // Replace with your unlimited api key
 // ANTIDELETE: process.env.ANTIDELETE || "false", // Still under development
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "false",
