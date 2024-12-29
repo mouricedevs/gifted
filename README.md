@@ -136,6 +136,6 @@
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Lunatic-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted&type=Timeline)](#)
+[![Lunatic-Md](https://api.star-history.com/svg?repos=lunatic Md/Lunatech&type=Timeline)](#)
 
 <a><img src='(https://files.catbox.moe/0gslwm.jpg)'/></a>
