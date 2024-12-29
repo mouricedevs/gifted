@@ -15,7 +15,7 @@
   
 </details>
 
-<a><img src='(https://files.catbox.moe/0gslwm.jpg)'/></a>
+<a><img src='https://files.catbox.moe/0gslwm.jpg)'/></a>
 
   <p align="center">
 <a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-LUNA TECH-red.svg?style=for-the-badge&logo=github"></a>
